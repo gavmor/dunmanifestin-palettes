@@ -219,6 +219,14 @@ is searching for their birthright, [artefact]
 is returning [item] to [denizen]
 is in love with [denizen], and is determined to seduce them
 is gathering materials to build [artefact]
+has no particular agenda
+is bent on coruption or domination
+is bent on domination and plunder
+has a mysterious goal
+seeks to conquer
+is seeking revenge
+is scheming to rule
+is under a curse
 
 |artefact
 [itemName], the [baseItem] [itemDescription]
@@ -269,7 +277,7 @@ whose touch is a jolt of lightning
 which contains the trapped souls of its every victim
 about-which-no-sound-travels
 that is half the average weight
-which turns into [wieldable] when its name is spoken
+which turns into [weildable] when its name is spoken
 
 
 |itemName

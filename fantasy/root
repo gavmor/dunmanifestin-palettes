@@ -1,6 +1,11 @@
 |root
-[denizen]. [denizenDetail]
-[place]
+[thingBio]
+[personBio]
+[placeBio]
 [plotHook]
 
+|placeBio
+[place]
 
+|thingBio
+[bag]

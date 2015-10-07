@@ -1,3 +1,14 @@
+|personBio
+50@[person] with [bag] and [baggage]. [personDetail]
+[person] [superpower]. [personDetail]
+
+|personDetail
+2@He/she wants [desire], and fears [fear].
+He/she wants [desire], or [desire], or both.
+He/she is [attitude] toward the party [reason].
+He/she wants [desire], and is [attitude] toward the party.
+He/she fears [fear], and is [attitude] toward the party.
+
 |person
 [personName], [qualityWithAdverb.article] [raceOrProfession]
 [personName], [quality.article] [raceOrProfession]

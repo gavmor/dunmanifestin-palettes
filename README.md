@@ -16,8 +16,3 @@ Shelrift, a tomb built on a bog in Hetcene and rumored to hide the treasure of T
 $ dunmanifestin -g ./hypotheticals
 What would you do if you could carry a winter?
 ```
-
-```
-$ dunmanifestin -g ./hypotheticals
-What would you do if you could carry a winter?
-```

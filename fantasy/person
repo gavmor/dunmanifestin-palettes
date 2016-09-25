@@ -10,6 +10,6 @@ He/she wants [desire], and is [attitude] toward the party.
 He/she fears [fear], and is [attitude] toward the party.
 
 |person
-[personName], [qualityWithAdverb.article] [raceOrProfession]
-[personName], [quality.article] [raceOrProfession]
-3@[personName], [appearance.article], [personality] [raceOrProfession]
+[personName], [qualityWithAdverb.article] [faction]
+[personName], [quality.article] [faction]
+3@[personName], [appearance.article], [personality] [faction]

@@ -14,19 +14,21 @@ air elemental
 fire elemental
 gargoyle
 ghoul
-giant
 gnoll
+giant
 gnome
-goblin
+20@goblin
 gorgon
 gray ooze
 green slime
 griffon
 hippogriff
+hobgoblin
 hydra
 invisible stalker
 lycanthrope
-manticora
+kobold
+manticore
 medusa
 minotaur
 mummy
@@ -58,9 +60,7 @@ doppleganger
 dragon
 druid
 gelatinous cube
-storm giant
-giant tick
-giant slug
+storm
 flesh golem
 stone golem
 iron golem
@@ -85,20 +85,6 @@ aquatic elf
 elasmosaurus
 fire lizard
 floating eye
-giant beaver
-giant crab
-giant crocodile
-giant eel
-giant frog
-giant leech
-giant octopi
-giant otter
-giant sea spider
-giant shark
-giant squid
-giant toad
-giant wasp
-giant beetle
 ixitxachith
 lamprey
 locathah
@@ -115,7 +101,6 @@ sahuagin
 sea horse
 strangle weed
 weed eel
-whale
 brain mole
 cerebral parasite
 couatl
@@ -134,23 +119,17 @@ basilisk
 berserker
 acolyte
 white ape
-bat
-bear
-giant beetle
-boar
 great cat
+giant [animal]
+dire[animal]
 cave locust
-giant centipede
 driver ant
-giant ferret
 harpy
 insect swarm
 killer bee
 living statue
-giant lizard
 troglodyte
 sprite
-giant spider
 snake
 roc
 rhinoceros

@@ -1,3 +1,11 @@
 |material
-[hardMaterial]
-[softMaterial]
+100@[hardMaterial]
+100@[softMaterial]
+[liquidMaterial]
+
+|liquidMaterial
+water
+alcohol
+milk
+[animal] milk
+[monster] milk

@@ -1,11 +1,9 @@
 |race
 [race]-[race] hybrid
+500@[humanoid]
+100@[monster]
+
+|humanoid
 5@human
 3@dwarf
 3@elf
-3@orc
-2@hobgoblin
-dragon
-2@kobold
-2@goblin
-

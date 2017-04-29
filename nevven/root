@@ -5,10 +5,10 @@
 [timeline]
 
 |inhabitant
-[personAdjectiveList] [raceOrProfession]
+[personAdjectiveList] [faction]
 
 |raceOrProfession
-[race]
+[faction]
 [profession]
 
 |profession
@@ -48,7 +48,7 @@ troll
 gnome
 human
 halfling
-half-[race]
+half-[faction]
 half-breed
 
 |personAdjectiveList

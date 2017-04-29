@@ -1,44 +1,241 @@
 |animal
-wolf
-werewolf
-fox
-cow
-cat
-rat
-lion
-tiger
-bear
-frog
-horse
-gryphon
-bull
-ox
-sheep
-pig
-8@[bird]
-tick
-slug
-beaver
-crab
-crocodile
-eel
-frog
-leech
-octopi
-otter
-sea spider
-shark
-squid
-toad
-beetle
-centipede
-ferret
-lizard
-spider
-whale
-boar
-bear
+29@[bird]
+11@[fish]
+8@[frog]
+6@[bear]
+alligator
+ant
+anteater
+antelope
+arctic fox
+arctic hare
+arctic wolf
+armadillo
+asian giant hornet
+axolotl
+baboon
+bactrian camel
+badger
+barnacle
+barracuda
+basking shark
 bat
+beagle
+beaver
+beetle
+bengal tiger
+bison
+black rhinoceros
+blue whale
+bobcat
+bonobo
+buffalo
+bulldog
+bumble bee
+butterfly
+camel
+capybara
+cat
+caterpillar
+centipede
+chameleon
+cheetah
+chicken
+chihuahua
+chimpanzee
+chinchilla
+chinook
+chipmunk
+cockroach
+common buzzard
+common toad
+coral
+cougar
+cow
+coyote
+crab
+crab-eating macaque
+crane
+crocodile
+deer
+desert tortoise
+dodo
+dolphin
+donkey
+dragonfly
+dugong
+earwig
+elephant
+elephant seal
+emu
+fennec fox
+ferret
+flounder
+fly
+flying squirrel
+fox
+fur seal
+gerbil
+giant african land snail
+giant clam
+gila monster
+giraffe
+glow worm
+goat
+goose
+gopher
+gorilla
+grasshopper
+great white shark
+greyhound
+guinea pig
+guppy
+hammerhead shark
+hamster
+hare
+hedgehog
+hermit crab
+heron
+hippopotamus
+honey bee
+horse
+horseshoe crab
+howler monkey
+human
+hummingbird
+hyena
+iguana
+indian elephant
+insect
+jackal
+jaguar
+kangaroo
+killer whale
+koala
+komodo dragon
+leopard
+lion
+lizard
+llama
+lobster
+lynx
+manatee
+manta ray
+meerkat
+millipede
+mole
+mongoose
+monkey
+moose
+moray eel
+moth
+mountain lion
+mouse
+mule
+neanderthal
+newt
+ocelot
+octopus
+opossum
+orang-utan
+otter
+oyster
+panther
+peacock
+pelican
+pig
+pink fairy armadillo
+piranha
+platypus
+porcupine
+possum
+prawn
+puffin
+pug
+puma
+pygmy hippopotamus
+quail
+rabbit
+raccoon
+rat
+rattlesnake
+red panda
+reindeer
+rhinoceros
+sabre-toothed tiger
+salamander
+scorpion
+sea lion
+sea otter
+sea slug
+sea urchin
+seahorse
+seal
+sheep
+shrimp
+skunk
+sloth
+snail
+snake
+snapping turtle
+sponge
+squid
+squirrel
+tick
+stick insect
+stingray
+stoat
+tapir
+termite
+tiger
+tortoise
+vampire bat
+walrus
+warthog
+wasp
+weasel
+whale shark
+white rhinoceros
+white tiger
+wild boar
+wildebeest
+wolf
+woolly mammoth
+yak
+yorkshire terrier
+zebra
+bearded dragon
+
+|fish
+angelfish
+catfish
+cuttlefish
+fish
+jellyfish
+kingfisher
+lionfish
+puffer fish
+starfish
+electric eel
+cichlid
+
+|frog
+clawed frog
+bullfrog
+common frog
+edible frog
+frog
+horned frog
+poison dart frog
+tree frog
+
+|bear
+bear
+black bear
+brown bear
+giant panda bear
+grizzly bear
+polar bear
 
 |bird
 dove
@@ -49,4 +246,25 @@ chicken
 hawk
 peacock
 bird
-
+cassowary
+woodpecker
+swan
+toucan
+turkey
+umbrellabird
+vulture
+penguin
+pheasant
+parrot
+ostrich
+magpie
+kiwi
+guinea fowl
+flamingo
+falcon
+eagle
+duck
+barn owl
+albatross
+booby
+budgerigar

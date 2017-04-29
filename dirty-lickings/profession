@@ -1,0 +1,52 @@
+|profession
+[academicProfession]
+[culturalProfession]
+[medicalProfession]
+[industryProfession]
+[publicServiceProfession]
+
+|academicProfession
+professor
+teacher
+
+|culturalProfession
+clergy
+philosopher
+
+|medicalProfession
+anesthesiologist
+audiologist
+chiropractor
+dentist
+dietitian
+nurse
+optometrist
+pharmacist
+physical therapist
+physician
+podiatrist
+psychologist
+radiographer
+radiotherapist
+speech-language pathologist
+surgeon
+veterinarian
+
+|industryProfession
+accountant
+actuarie
+airline pilot
+architect
+engineer
+linguistic
+translator
+interpreter
+surveyor
+
+|publicServiceProfession
+soldier
+lawyer
+social worker
+police officer
+health inspector
+park ranger

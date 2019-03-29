@@ -1,6 +1,6 @@
 |baseItem
-[nonPreciousMetal] [tool]
-[nonPreciousMetal] [weapon]
+[metal] [tool]
+[metal] [weapon]
 [utensil#plural]
 [instrument#plural]
 [tool#plural]

@@ -20,10 +20,10 @@ claw
 flail
 
 |sword
-[nonPreciousMetal] [swordType#plural]
-[nonPreciousMetal] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
-[nonPreciousMetal] [swordType#plural] inlaid with [preciousMetal]
-[nonPreciousMetal] [swordType#plural] encrusted with [preciousStone.plural]
+[metal] [swordType#plural]
+[metal] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
+[metal] [swordType#plural] inlaid with [preciousMetal]
+[metal] [swordType#plural] encrusted with [preciousStone.plural]
 [swordType#plural]
 [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
 [swordType#plural] inlaid with [preciousMetal]
@@ -32,7 +32,7 @@ flail
 [itemQuality] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
 [itemQuality] [swordType#plural] inlaid with [preciousMetal]
 [itemQuality] [swordType#plural] encrusted with [preciousStone.plural]
-[nonPreciousMetal] [swordType#plural], [weaponName], [weaponEpithet]
+[metal] [swordType#plural], [weaponName], [weaponEpithet]
 
 |swordType
 20@sword
@@ -76,15 +76,15 @@ shaft
 [knifeType#plural] inlaid with [preciousMetal]
 [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
 [knifeType#plural] encrusted with [preciousStone.plural]
-[nonPreciousMetal] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
-[nonPreciousMetal] [knifeType#plural] inlaid with [preciousMetal]
-[nonPreciousMetal] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
-[nonPreciousMetal] [knifeType#plural] encrusted with [preciousStone.plural]
+[metal] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
+[metal] [knifeType#plural] inlaid with [preciousMetal]
+[metal] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
+[metal] [knifeType#plural] encrusted with [preciousStone.plural]
 [itemQuality] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
 [itemQuality] [knifeType#plural] inlaid with [preciousMetal]
 [itemQuality] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
 [itemQuality] [knifeType#plural] encrusted with [preciousStone.plural]
-[nonPreciousMetal] [knifeType#plural] named [weaponName]
+[metal] [knifeType#plural] named [weaponName]
 
 |knifeType
 5@knife

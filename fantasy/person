@@ -1,13 +1,13 @@
 |personBio
-50@[person] with [bag] and [baggage]. [personDetail]
+50@[person] with [thing] and [baggage]. [personDetail]
 [person] [superpower]. [personDetail]
 
 |personDetail
-2@He/she wants [desire], and fears [fear].
-He/she wants [desire], or [desire], or both.
-He/she is [attitude] toward the party [reason].
-He/she wants [desire], and is [attitude] toward the party.
-He/she fears [fear], and is [attitude] toward the party.
+2@Ze wants [desire], and fears [fear].
+Ze wants [desire], or [desire], or both.
+Ze is [attitude] toward the party [reason].
+Ze wants [desire], and is [attitude] toward the party.
+Ze fears [fear], and is [attitude] toward the party.
 
 |person
 [personName], [qualityWithAdverb.article] [faction]

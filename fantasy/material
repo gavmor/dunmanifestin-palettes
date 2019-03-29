@@ -1,6 +1,6 @@
 |material
 100@[hardMaterial]
-100@[softMaterial]
+100@[fabric]
 [liquidMaterial]
 
 |liquidMaterial
@@ -9,14 +9,6 @@ alcohol
 milk
 [animal] milk
 [monster] milk
-
-|softMaterial
-3@leather
-5@linen
-3@cotton
-silk
-6@wool
-velvet
 
 |metal
 [nonPreciousMetal]

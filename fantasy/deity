@@ -1,0 +1,26 @@
+|deity
+[name], [title] of [domain], [domain], and [domain]
+
+|title
+lord
+lady
+god
+goddess
+
+|domain
+10@[facetOfCulture]
+[race.plural]
+magic
+arcane knowledge
+balance
+foresight
+humor
+gemcutting
+death
+darkness
+murder
+the underworld
+sun
+light
+strength
+healing

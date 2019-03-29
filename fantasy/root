@@ -1,11 +1,11 @@
 |root
-[thingBio]
 [personBio]
 [placeBio]
+[thingBio]
 [plotHook]
 
 |placeBio
 [place]
 
 |thingBio
-[bag]
+[thing]

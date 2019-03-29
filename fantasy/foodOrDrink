@@ -1,6 +1,6 @@
 |foodOrDrink
 [food]
-[drink]
+[beverage]
 
 |food
 porridge
@@ -10,7 +10,7 @@ buttered bread
 salad
 pork
 
-|drink
+|beverage
 wine
 beer
 mead

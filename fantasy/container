@@ -3,5 +3,5 @@
 4@bag
 cart
 barrel
-[softMaterial] bag
+[fabric] bag
 [hardMaterial] box

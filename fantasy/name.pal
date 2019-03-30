@@ -1,15 +1,11 @@
 |name
-[humanName]
-[elfName]
+[latinName]
+[welshName]
 [koboldName]
 [word]
-
-|humanName
+[japaneseName]
 [englishName]
 
-|elfName
-3@[latinName]
-[welshName]
 
 |word
 [ssCap]
@@ -83,4 +79,3 @@ Z
 4@I
 3@O
 2@U
-

@@ -2,35 +2,26 @@
 
 Swatch-lists for generating plausible phraseage using [Dunmanifestin](https://github.com/quavmo/Dunmanifestin), e.g.
 
+---
+From `that which [verb] [subject] [verb] [subject]`,
 
-`$ dunmanifestin -g ./sophistry`:
+`$ dunmanifestin -g ./sophistry` gives us:
 >That which overcomes tact cures enthusiasm.
 
-`$ dunmanifestin -g ./fantasy`:
+---
+From `[placeName], [settlementType.article] built on [geologicalFormation.article] in [region] and [settlementDetail]`,
+
+`$ dunmanifestin -g ./fantasy` gives us:
 > Shelrift, a tomb built on a bog in Hetcene and rumored to hide the treasure of Toni Grenec beneath its foundations: Otu, the copper sword which fights of its own accord
 
+---
 `$ dunmanifestin -g ./hypotheticals`:
 > What would you do if you could carry a winter?
 
+---
 `$ dunmanifestin -g fantasy:post-apocalpytic`:
 
 > Thetutown, a colliseum built on a mountain in Wilayah Persekutuan Kuala Lumpur and famous for being the target of an attack by Entata Felldon, an infuriatingly paranoid accountant
-
-## How To
-
-```
-$ dunmanifestin -h
-Options:
-  -d, --debug          Display errors and logging
-  -i, --interactive    Use an interactive command prompt
-  -n, --count=<i>      Specify how many lines of output to generate at once
-  -c, --copy           Copies manifestation into your clipboard
-  -g, --genre=<s>      Specify genres by filepath, e.g. '-g genres/scifi/', '-g ./genres/poetry:./genres/romantics'
-  -p, --phrase=<s>     Specify a phrase or list, e.g. 'The [animal] sat on the [article]' or '[weapon]'
-  -o, --chomp          remove the trailing newline from the output
-  -f, --file=<s>       Read a file as the phrase
-  -h, --help           Show this message
-```
 
 ## Attributions
 

@@ -1,4 +1,4 @@
-# dunmanifestin-palettes
+# Dunmanifestin Palettes
 
 Swatch-lists for generating plausible phraseage using [Dunmanifestin](https://github.com/quavmo/Dunmanifestin), e.g.
 
@@ -17,9 +17,17 @@ $ dunmanifestin -g ./hypotheticals
 What would you do if you could carry a winter?
 ```
 
+They can be combined, in clobbering order:
+
+```
+$ dunmanifestin -g fantasy:post-apocalpytic
+Thetutown, a colliseum built on a mountain in Wilayah Persekutuan Kuala Lumpur and famous for being the target of an attack by Entata Felldon, an infuriatingly paranoid accountant
+```
+
 ## Attributions
 
 Thank yous a million for dropping these things on the internet where I could scramble 'em:
 
+- [Ben Christel](https://github.com/benchristel)'s Nevven
 - u/JR-9615's [Mundane Items](https://www.reddit.com/r/DnD/comments/3yvy58/commonmundane_item_list_d100/)
 - [Johnn Four](https://www.roleplayingtips.com/)'s [Encounters](https://s3.amazonaws.com/RPT-eBooks/1372-fantasy-roadside-encounters.pdf)

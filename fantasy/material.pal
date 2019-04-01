@@ -2,14 +2,3 @@
 100@[hardMaterial]
 100@[fabric]
 [liquidMaterial]
-
-|liquidMaterial
-water
-alcohol
-milk
-[animal] milk
-[monster] milk
-
-|metal
-[metal]
-[preciousMetal]

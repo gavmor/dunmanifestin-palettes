@@ -2,6 +2,6 @@
 [itemName], the [baseItem] [magicItemDescription]
 
 |weildable
-100@[baseItem]
+100@[itemCondition] [baseItem]
 [artefact]
 [minorMagicItem]

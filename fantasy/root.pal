@@ -1,6 +1,10 @@
 |root
 [personBio]
-[place]
+[placeBio]
 [thing]
 [plotHook]
 [organization]
+
+|placeBio
+[desertLocation]
+[place]

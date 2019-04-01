@@ -10,9 +10,9 @@ A demon marches atop [geologicalFormation.article] only a half dozen paces from 
 A King's Sheriff holds a colorful wanted poster. He carefully studies the party as they pass by.
 [person] holds [weildable.article]. He/She carefully studies the party as they pass by.
 One of the PCs spots a key. What's it for?
-A young man and woman riding a horse bareback, ill-equipped for travel, make to pass by you in haste. If questioned, they tell you they are lovers, fleeing a feud between their families who live in [settlement] the village ahead of you.
-A smiling roadside merchant roasts rats, frogs and squirrels on sticks.
-A smiling roadside merchant roasts [animal.plural], [animal.plural] and [animal.plural] on sticks.
+[appearance.article] man and woman riding a horse bareback, ill-equipped for travel, make to pass by you in haste. If questioned, they tell you they are lovers, fleeing a feud between their families who live in [settlement] the village ahead of you.
+[appearance.article] roadside merchant roasts rats, frogs and squirrels on sticks.
+[appearance.article] merchant roasts [animal.plural], [animal.plural] and [animal.plural] on sticks.
 The road goes through a canyon bog filled with toxic, flammable gas.
 The road goes through [geologicalFormation.article] filled with toxic, flammable gas.
 A lone child blocks the bridge ahead, unless each traveler can guess her riddle.
@@ -20,7 +20,7 @@ A local noble stumbles out of woods and falls flat on face with a knife in his b
 A chatty [profession] walks alongside the party.
 A strange smell comes from the bushes.
 The side of the road is lined with mausoleums to long dead mercantile families. Some of them appear to have been broken into and doors hang free on rusted hinges.
-The PCs come across the scene of a massacre. A party of bullywugs lies slaughtered. The party hears crying and can find a young bullywug child. "My parents, dead," she croaks. "Killed by human soldiers. Help me get back to my tribe," she begs.
+The PCs come across the scene of a massacre. A party of bullywugs lies slaughtered. The party hears crying and can find a [appearance] bullywug child. "My parents, dead," she croaks. "Killed by human soldiers. Help me get back to my tribe," she begs.
 A migration of 100 turtles scurry from the beach as you approach.
 A roadside shrine to a local deity is the scene of a gruesome murder. A woman's body, dressed in blood-stained white robes, lies in the middle of road as if dragged and dropped there. You see bloody steps heading away from the corpse towards the woods.
 A group of farmers repair a fence.
@@ -68,7 +68,7 @@ The road is riddled with pockets of quicksand.
 After one of the group treads in something sticky, animals start following the character with curious interest.
 Two groups of pilgrims from rival faiths block the road as they engage in aggressive debate. Each side appeals to the heroes for help.
 A large mob fleeing from something heads towards you.
-Three young men work on tipping over an occupied outhouse.
+Three [appearance] men work on tipping over an occupied outhouse.
 A partially collapsed bridge has just two supporting beams remaining.
 A travelling blade-sharpener offers a special deal to the PCs to improve their magic weapons, but later the PCs discover the magic in the blades seems to be gone.
 A tall rock overlooks the road. As the group passes, a filthy hermit babble prophecies and throws rotten food at them.
@@ -235,12 +235,12 @@ A small enclave of garish artists approach on a horse drawn cart. One member is 
 A family is stranded on the side of the road.
 It appears travellers here have two choices. The high road (plagued by giants) or the low road (plagued by lizard men).
 The leading PC is attacked by a mammoth shark-like creature as it erupts from beneath the surface of the road.
-A young couple feverishly digs alongside the road, bickering all the while. It seems they're after something valuable buried by the road.
+A [appearance] couple feverishly digs alongside the road, bickering all the while. It seems they're after something valuable buried by the road.
 A tree not normally found in this area (think palm tree in Scotland).
 A huge creature crashes through the forest to your left, breaking trees as it approaches the road.
 A little girl in a red cloak skips down the road.
 A dollhouse sits abandoned on the bridge ahead.
-The party catches up to a slender young woman disguised as a boy travelling along the road.
+The party catches up to a slender [appearance] woman disguised as a boy travelling along the road.
 Beggars accost the party, pleading for money.
 A large pool of congealed blood lies in the centre of the road.
 A gentleman offers the PCs a chance to sleep in his house for the night, but alas, he and his family have rather Procrustean ideas about guests.
@@ -282,7 +282,7 @@ A scared group of travellers huddle on a small bridge. The group explains that b
 A placid lake swamps the road. Several stakes festoon the road near the lake's edge, each topped with a fresh skull.
 On the side of the road an old man and woman yell at each other about who forgot to pack lunch.
 An annual migration of flesh-eating or blood-sucking insects plagues the party's passage through a forest.
-3 pilgrims trudge along the dusty road, an old man and two young men. Simple travellers? Or are they more than they seem?
+3 pilgrims trudge along the dusty road, an old man and two [appearance] men. Simple travellers? Or are they more than they seem?
 A military force tracks a fugitive and insists on searching the PCs' retinue.
 The drizzle that has spattered its misery upon the party for hours graduates into a full-out storm, replete with lightning, crashing thunder and hailstones the size of plover's eggs.
 A fast ship in the bay is bombarding the helpless port with siege engines. It's out of range for the locals to deal with, and possibly not alone.
@@ -304,28 +304,28 @@ Sickly green foam flows down a nearby hillside and over the road, dissolving eve
 A boisterous wedding party dances towards the PCs.
 A wounded hitchhiker comes into view.
 A dead magic user clutches a scroll in his stiff hand. The scroll says something important.
-Crashing branches and undergrowth ahead stop suddenly as a young child bursts out in front of you. He looks wildly in your direction and pleads, "Help me please they're coming!"
+Crashing branches and undergrowth ahead stop suddenly as a [appearance.article] [ageGroup] bursts out in front of you. He looks wildly in your direction and pleads, "Help me please they're coming!"
 A horse thief poses as a reputable merchant and strives to sell his stolen horses to travellers before the law catches up to him.
-From the bushes you hear the soft sobbing of a small child.
+From the bushes you hear the soft sobbing of a small [ageGroup].
 A man steps from the woods and introduces himself as Captain Feeny.
 A paved road recently rebuilt with stone from nearby ruins. The group notices some stones are carved with odd patterns. Put together, the patterns make up a mural showing the location of a valuable treasure/dungeon/great monster.
 A huge, magical, glowing rock sits in the path. It hums louder when approached...like a bomb.
-A cart filled with caged children rumbles down the road.
+A cart filled with caged [ageGroup.plural] rumbles down the road.
 The warm rain that never seems to stop threatens the quality of goods carried by the travelers.
-A hooded farmer struggles with a broken wheel on his wagon over-full of turnips.
-A dead lion lays in the road, the victim of a swarm of wasps.
+A [appearance] [profession] struggles with a broken wheel on his wagon over-full of [baseItem.plural].
+A dead [animal] lays in the road, the victim of a swarm of [animal.plural].
 The sunken road is flooded out with blood.
 A single stone has been recently erected in the center of the road.
-Kobolds burst out of the forest in panic in front of the party. What has them running?
+[faction.plural] burst out of the forest in panic in front of the party. What has them running?
 A chest lies forgotten in the middle of the road. Inside is a cursed magical artifact or treasure best left untouched.
 Three men chase an uncooperative horse.
-A hooded man driving a wagon covered with a black cloth passes you with good speed. You notice a coffin as the cloth falls off the wagon.
+A [appearance] man driving a wagon covered with a black cloth passes you with good speed. You notice a coffin as the cloth falls off the wagon.
 A knight bearing the crest of a local lord is found rusted into his armour, in an uncomfortable position, by the side of the road.
 A giant footprint lies along the path. There are no other signs of such footprints in the area.
 In a shallow ravine parallel to the road, you see a large number of broken carts, wagon wheels and axles. The road subtly narrows at the same time.
 A crook-backed man covered by a black cloak limps along with a twisted rod. He shouts, "The end is nigh! Repent!"
 A toppled wagon, covered in blood and claw marks, lies on the road.
-A great stone bridge built over a chasm or river is bookended by gate houses. A box near the closed gate bears a sign: "2gp" with an arrow pointing at a slit in the box. Everything is silent inside the gatehouse but you see a hooded figure walking away on the other side.
+A great stone bridge built over a chasm or river is bookended by gate houses. A box near the closed gate bears a sign: "2gp" with an arrow pointing at a slit in the box. Everything is silent inside the gatehouse but you see a [appearance] figure walking away on the other side.
 You awake to find everything you own has been removed during the night. Fearing theft, a quick search reveals twelve sets dwarven tracks, one set of unidentified human tracks and, lying in the middle of your campsite, a smoldering pouch of herbs that, when you sniff them, make you feel slightly drowsy.
 A mother begs travelers to find her missing son.
 An enormous dragon lands on the road in front of the group. It asks for directions to the capital, gives them a generous tip and then flies off with a loud proclamation of intending to raze it to the ground.
@@ -343,7 +343,7 @@ Recent signs of a fierce battle mark the road and the land around, but strangely
 There must be a hundred coins or more leaving a trail off the road.
 A lute hangs from a limb.
 The ferry boat on the far side of the river appears untended. On this side, the rope that guides the ferry is attached to a massive pulley, ready to ratchet back across the river.
-Up ahead you see a young boy holding a sign and jumping up and down. As you get closer you see the sign reads "Prof. Hardwick's Hall of Wonders." The boy excitedly exclaims this new attraction has just opened and today only admission is a mere 5 coins.
+Up ahead you see a [appearance] boy holding a sign and jumping up and down. As you get closer you see the sign reads "Prof. Hardwick's Hall of Wonders." The boy excitedly exclaims this new attraction has just opened and today only admission is a mere 5 coins.
 A large pool of water blocks the road, the surface ripples even though there is no wind.
 Buzzards circle a broken down wagon with dead livestock lying all around.
 The PCs chance on a farmhouse on fire.
@@ -376,7 +376,7 @@ A man or creature falls from the sky.
 A towering slot canyon seems to be the only path forward - the perfect place for an ambush.
 A sign reads "Danjer ahed!"
 On the side of the road sits a farmer. In his hands is a shredded blue dress, the size of a child and he clutches it to his chest, sobbing. Behind him is the smoldering ruins of a farmhouse.
-A band of young halflings stroll by happily, playing musical instruments. They salute the PCs as they pass and try to pickpocket them.
+A band of[appearance][faction.plural] stroll by happily, playing [instrument.plural]. They salute the PCs as they pass and try to pickpocket them.
 PCs encounter the camp of a woman, her hen-pecked husband and their children.
 A old board game lies in the middle of the road (it does nothing, but watch the PCs squirm).
 You hear the rumbling, and feel the road thrumming beneath your feet. To one side, the view is obscured with dust rising up from the ground. Shapes rushing towards you resolve into cattle - hundreds of them, all running for their lives.
@@ -392,7 +392,7 @@ A coven of witches march along the hill's top path as the sun drops below the ho
 A large, disgruntled mob of people blocks the entire road and refuse to let anyone past. Strangely, every member of the mob is wearing a red arm band.
 While travelling on this road, none of your compasses work.
 After camping for the night on the roadside, the party wakes to find a field of sweet-smelling flowers has grown up around them.
-A lone hooded figure dressed in a long, dirty, red robe approaches slowly tolling a bell.
+A lone [appearance] figure dressed in a long, dirty, red robe approaches slowly tolling a bell.
 A brand-new shoe lies on the trail.
 A gypsy caravan passes. They might have interesting items for sale or trade, but they have touchy tempers and strange customs. They might even want to capture a PC or pet to sell in the next town.
 A thief tries to infiltrate the party to steal from them.
@@ -411,7 +411,7 @@ Workers block the road demanding an increase in wages.
 A giant sinkhole opens up right in front of you.
 Two precocious children offer to buff shields or dust boots for money. They follow PCs at a distance calling them names if rebuffed.
 A stone guard tower has toppled over, blocking your way.
-It started as a milk run, but the young noble you are charged with escorting has developed a bladder infection, and now the need for rest stops has become ridiculously frequent.
+It started as a milk run, but the [appearance] noble you are charged with escorting has developed a bladder infection, and now the need for rest stops has become ridiculously frequent.
 A sudden rain of fish, frogs, worms or other creature.
 The PCs see an illusion of a ten mile deep chasm stretching to the horizon.
 In a passage tightly walled with tall cliff faces, some of the cobblestones are blackened. Contact with these stones leaves scorches and burns on any exposed limbs. They seem to be increasing in number as the road progresses.
@@ -441,7 +441,7 @@ Picked mushrooms lay on stump to dry.
 At the end of a long day's ride, the party looks forward to the comforts and familiarity of the Embridge Inn. But as they round the bend, they see the courtyard gate ajar and even more ominously, Kendrick the duty footman nowhere in sight.
 A fortune teller's tent stands at a crossroads.
 A rainbow bridge leads to some weird magical dimension.
-A large barrel lies on the side of the road, guarded by a young boy and his slingshot.
+A large barrel lies on the side of the road, guarded by a [appearance] boy and his slingshot.
 Human footprints head off in one direction, blood with drag marks go in another direction.
 In an arid tundra plain, a wooden sign juts out of the ground alongside a faint path. A crust of ice and snow hides the sign's markings.
 A book filled with illustrations of a wealthy family lays by the road side.
@@ -469,7 +469,7 @@ Beside the road lie the remains of an old rotten catapult. Strangely, it seems a
 The road quickly becomes narrow and overgrown with thorny plants that are poisonous.
 Brigands ambush the party. After the fight, a search of the bodies uncovers a treasure map.
 The den of goblinoids is shunned by most travelers, but a truce surrounds it as humans can't destroy it, nor can the goblins destroy the human settlement. Trading and socializing are possible, though dangerous. The PCs stumble into one of these negotiations as it turns hostile. If the PCs throw in with the humans, the goblins will run away. Then the human settlement blames the PCs for bringing the might of the goblins down on the area.
-A young woman in simple clothes cries beside the road. She will explain she is a deer magically transformed into a girl by a cruel wizard who caught her stealing from his garden.
+A [appearance] woman in simple clothes cries beside the road. She will explain she is a deer magically transformed into a girl by a cruel wizard who caught her stealing from his garden.
 A deserted city made completely of glass appears out of nowhere in the middle of a fog.
 An odorous mess of rotting fish litters the path.
 A large and colourful wagon is stopped by the roadside. A travelling troupe of actors practices their next show.
@@ -541,7 +541,7 @@ The PCs wake up to find their campsite has been ransacked. None of their normal 
 A chain gang digs ditches beside the road.
 A feral cat trails the party.
 The Mother Superior from a roadside nunnery looks missing novitiates.
-A single hooded rider goes by on a horse. A letter flies out of his bag full of envelopes.
+A single [appearance] rider goes by on a horse. A letter flies out of his bag full of envelopes.
 A raucous band of riders challenge the party to a race.
 A hanging is about to occur. A crowd gathers.
 A man dressed like royalty has amnesia.
@@ -551,7 +551,7 @@ Guards approach and ask what business you have at the bridge they guard.
 A bend on the coastal road made smooth and slippery by the sea water splashing and spraying over it, brings risk of falling into the sea.
 A spooked horse guards a corpse.
 A tree of local renown, the Old King, stands atop a nearby knoll. The ancient tree is withered and gnarled, but legend says the boon of the gods is granted to any who offer it a blood sacrifice.
-A wealthy but naive young woman tries to train her tethered falcon in a nearby field. It is not going well.
+A wealthy but naive [appearance] woman tries to train her tethered falcon in a nearby field. It is not going well.
 The PCs find a dead body on the side of the road. Trapped inside the corpse is a demon looking for a new host. And the PCs are looking pretty good....
 A tree burns brightly. Curiously, the fire is not spreading and the tree is not being consumed.
 For as far as you can see, the road has been pounded into a nearly impassable, mucky mess. You may navigate it at much reduced speed, or risk an adjacent murk of a wood for a chance at quicker passage.
@@ -619,7 +619,7 @@ Wind knocks a beehive out of an overhanging tree.
 Smoke starts billowing up from just over the next hill.
 The new slate road is surprisingly smooth and limits traction.
 An enchanted fountain suddenly appears beside the road.
-A row of hooded stone statues guard the sides of the road ahead.
+A row of [appearance] stone statues guard the sides of the road ahead.
 A robed figure on a runaway contraption, yelling for help.
 The brush on one side of the road breaks open as a great antlered buck leaps forth, clearing the path without ever treading upon it, and disappears on the other side. Close after, a hunter appears in pursuit, breathless and arrow nocked.
 The PCs encounter the corpse of a rare monster.
@@ -742,7 +742,7 @@ Sink hole reveals underground tunnels.
 The party is startled by a raven flying overhead that caws out one PC's name.
 An undead horse skeleton trots towards you, its bones clacking against each other in an almost musical fashion.
 At a rushing river, a ferry can be seen midstream with a vicious battle happening on deck.
-A group of drunk young noblemen pass the PCs, racing their expensive horses.
+A group of drunk [appearance] noblemen pass the PCs, racing their expensive horses.
 Another party of adventurers rides past you in the opposite direction. You hear animated arguing over their next treasure hunt. A few yards further away, you see a map lying on the ground.
 A 12 foot wooden post stands beside the road. Something pale flutters on the top of it.
 Pilgrims of differing faiths and races brawl.
@@ -892,7 +892,7 @@ Something on the wayside catches your eye. Further inspection reveals an overgro
 A pack of starving wolves fights over the body of a lone traveller.
 A huge boulder has been pushed in the middle of the road by hill giant raiders.
 There is a sudden earth tremor followed by a mighty roar. A cavern full of terracotta warriors armed with a variety of mundane weapons appears. The warriors seem to be inanimate.
-A cloaked and hooded stranger pitches over dead at the PCs' feet.
+A cloaked and [appearance] stranger pitches over dead at the PCs' feet.
 The road forks at a small sign. To the left the sign reads, "Certain Death Awaits." To the right the sign reads, "A Great Treasure Awaits."
 A crazed highwayman attempts to return stolen valuables to a PC, thinking he robbed the character before and now wants a clear conscience.
 Footprints filled with burning flames cross your path. Fire giant?
@@ -973,7 +973,7 @@ The muffled cries of a kitten draw your attention to the side of the road. A bur
 is opened, flip a coin again. The bag will always have either a dead or alive cat inside it, until you take the cat out, in which case, it's just a burlap sack.)
 The PC in front falls into a deep pit, then a bunch of savages attack from all sides.
 A disreputable merchant has set up a road stall that sells pies. Unfortunately, the pies are made with rotten meat, and whilst the pies taste fine, all who eat them become violently ill.
-A farmer struggles with a broken wheel on his laden wagon full of potatoes. His young son throws baby potatoes at you.
+A farmer struggles with a broken wheel on his laden wagon full of potatoes. His [appearance] son throws baby potatoes at you.
 A huge winged shadow flies over your party, following the direction of the road.
 The sky darkens as the trees grow together over the path.
 Some sort of carnival blocks the road. The carnival seems festive, but the details are all wrong. As the party draws near, a threatening demon manifests before them and politely suggests a substantial detour as the demon ritual simply cannot be disturbed.
@@ -1008,7 +1008,7 @@ A group of small well-dressed children approach. At first glance, none seem olde
 The PCs encounter a cattle stampede. The stampede is nearby but no threat. The PCs are blamed for causing the stampede by the chasing cowboys.
 The road closed due to slime migration.
 The usually empty road is crowded with traffic.
-A young runner, a messenger bag slapping against his back, sprints past the party.
+A [appearance] runner, a messenger bag slapping against his back, sprints past the party.
 A brightly colored fair with many wagons, minstrels, jugglers and acrobats. They struggle with an exotic beast attempting to break its last chain.
 A party of soldiers escorts a prisoner chained hand-to-foot with a bag over his head.
 A loud crash echoes as a small child falls from a hiding perch in a tree near the road.
@@ -1029,8 +1029,8 @@ Two people are arguing over the possession of a pig in a canvas bag.
 A mass of small birds swoop from the sky and begin murderously pecking and slashing your faces.
 The field is filled with enormous and mishappen plants that smell faintly of rotting flesh.
 A druid and her animal companion takes their rest by the side of the road.
-A young woman with a crying baby wrapped in a shawl is hotly pursued by a band of rough-looking men.
-A young woman stands on the bridge, crying about something that fell in the water.
+A [appearance] woman with a crying baby wrapped in a shawl is hotly pursued by a band of rough-looking men.
+A [appearance] woman stands on the bridge, crying about something that fell in the water.
 A weapon sharpener approaches the party.
 The PCs come upon a sobbing woman holding a teenage boy who looks to have been severely beaten. She explains her youngest son was attacked by a gang. Of more immediate danger is her oldest son who has gone off to exact revenge.
 Tearful villagers plead with travellers to save their village from a ravaging beast.
@@ -1046,7 +1046,7 @@ A bear cub has caught its foot under a root beside the road. Mother bear is gett
 A flock of birds erupt from the tree line as the party nears the forest.
 The road disappears into a massive cave that goes deep underground.
 A caravan is stopped on a bridge and everyone has been turned to stone.
-Two young nobles recklessly race carriages along the road, heading straight for you.
+Two [appearance] nobles recklessly race carriages along the road, heading straight for you.
 Three men dig a pit in the middle of the road, guarded by a huge thug.
 A cannon rings out a cry of devastation in the cool night air.
 As the party approaches the mage's abode, a stone golem partially buried in the path's flagstones rises to menace them.
@@ -1232,7 +1232,7 @@ You awaken from camp surrounded by a parliament of owls. Nature is judging you.
 A half-sunk and broken statue peeks from roadside foliage.
 Your urgent need to take a bathroom break disturbs a reclusive cult's shrine.
 People dressed in white togas dance in a circle, chanting something happy.
-An older and obviously rich man travels with a beautiful young peasant.
+An older and obviously rich man travels with a beautiful [appearance] peasant.
 A hulking figure rises out of the mists ahead, followed by smaller shadows around it.
 The road ends with...nothingness. What happened here?
 A table on the roadside holds a large basket of fresh vegetables. A sign reads "1 copper a bunch: honesty is a virtue!"
@@ -1309,7 +1309,7 @@ A dead horse, in full tack, lies dead in a ditch. The saddle bags are full of ad
 The group sees one group routing another leaving dying and dead behind.
 Noxious, bilious green gas covers the road ahead.
 An older gentleman hobbles along, apparently injured. If asked, he admits to being caught unawares and attacked by brigands and mumbles he should have known better. He asks the party for an escort until the next crossroads. During the trip (or during the conversation if the party refuse to help) he pick pockets as many of the party as he can for as much as he can.
-A young dog or other creature decides to playfully follow the party.
+A [appearance] dog or other creature decides to playfully follow the party.
 A tree with bark chewed or clawed off at the bottom.
 A thin, elderly man hands out copper pieces to every child that walks by. Turns out he is the King. A small gesture to promote his good standing with the people. People who have started to think the old king is growing soft and cold hearted.
 A tinker with an over-encumbered mule looks worried the PCs might be evil. The mule stumbles and starts to tip.
@@ -1376,14 +1376,14 @@ Ambush: archers behind a tree across the road just around a bend in the road. Cl
 Monstrous mount ridden by a gnome.
 The road closed due to snow, regardless of the season.
 Bounty hunter tracks his target.
-The party encounters a young man attempting to protect an injured and horrified young woman from a mob / bandits / hitmen. Although he appears to be normal, the man gives off an intimidating aura, such as that of a powerful spell-caster or an elite fighter. It soon becomes obvious that, regardless of the reason why the young woman is in danger, the young man is not only willing to slaughter the pursuers but may well be capable of doing so if the party fails to intervene.
+The party encounters a [appearance] man attempting to protect an injured and horrified [appearance] woman from a mob / bandits / hitmen. Although he appears to be normal, the man gives off an intimidating aura, such as that of a powerful spell-caster or an elite fighter. It soon becomes obvious that, regardless of the reason why the [appearance] woman is in danger, the [appearance] man is not only willing to slaughter the pursuers but may well be capable of doing so if the party fails to intervene.
 The party observes someone - or perhaps a group of someones - performing a ritual at a shrine in the middle of a grove of trees. The party does not think they have been seen.
 The party strays too close to a hive of stinging insects or an ant mound, causing the creatures to rise up in defense of their territory.
 A retreating army has fled into the woods seeking refuge after a rout. The warriors may mistake the party for a pursuit force from their opponents.
 A local hedge wizard does indeed have a series of hedges and gardens surrounding his tower. He is tending to a new hybrid flower he recently cross-bred when the party approaches. If the party is amicable he'll gladly tell them all about it.
 Pitfalls, snares, metal teeth and other such traps lie dangerously close to the road. A careless hunter, or bandits staging an ambush?
 A hunter, guide or druid tells the party someone important (such as a noble or prominent businessman) has a small keep in the area. The important someone values their privacy, and does not take kindly to strangers appearing without a good reason.
-The party encounters a young woman in a bright red cloak. She is carrying a basket and claims to be heading off to see her grandmother.
+The party encounters a [appearance] woman in a bright red cloak. She is carrying a basket and claims to be heading off to see her grandmother.
 A child has fallen in the river and is struggling to stay afloat. A parent or older sibling is attempting to throw them a rope, but the child is too panicked to grasp it.
 The party encounters a brawl between a group of hill giants and a group of forest giants, who each accuse the other of trespassing into their respective territory.
 Squirrels, monkeys, or other animals taunt the party.
@@ -1399,7 +1399,7 @@ A mysterious convoy trudges through the forest, the commander believing the wood
 The party encounters d20 animals who have become drunk by eating rotting and fermenting. While some of the animals are stumbling about or sleeping, a few have become belligerent.
 The sound of crying leads the party to a child who claims to have been separated from the other children while playing hide-and-seek. Is this a child who was too successful at the game, a victim of a cruel prank, or a means of lowering the party's guard?
 Although it initially seems like nothing more than a normal homestead in the middle of the woods, it is actually the factory from which spell-casters create golems and/or technicians build automatons. The creators will unleash their creations on the world soon.
-The party encounters a group of several brightly-colored ponies, unicorns and pegasii frolicking in a clearing, accompanied by at least one young dragon. Most of the creatures respond delightedly to the presence of the party, and a voice can be heard sweetly inviting everyone to come join them.
+The party encounters a group of several brightly-colored ponies, unicorns and pegasii frolicking in a clearing, accompanied by at least one [appearance] dragon. Most of the creatures respond delightedly to the presence of the party, and a voice can be heard sweetly inviting everyone to come join them.
 Locals are having a mass picnic in the woods as part of a festival. If the party is non-threatening and agrees to be on their best behavior, then the mayor will invite them to join in. The locals baked too much bread for the occasion, and so are willing to share. Even if it's just buttered bread, it's still home cooking. This could also be a prime occasion to network and make contacts.
 The party encounters the ruins of an abandoned city. The sheer amount of broken and discarded objects indicates that the city was abandoned in a hurry.
 Bandits mistake the party for an element of the royal guard and attack on sight.
@@ -1409,7 +1409,7 @@ Although the forest is famous for the large quantity of deer that make their hom
 What appears to be a long-forgotten cemetery isn't quite so forgotten after all. One of the graves is freshly-dug.
 A bear cub has been caught in a hunter's trap, and the mother furiously struggles to free it.
 A frustrated bard or artist sits on a large rock while attempting to work on their latest creative offering.
-The party spots what appears to be an attractive young female humanoid bathing in a nearby river. Is this a local girl thinking she has privacy, the set-up for a trap, or perhaps even an encounter with a divine being?
+The party spots what appears to be an attractive [appearance] female humanoid bathing in a nearby river. Is this a local girl thinking she has privacy, the set-up for a trap, or perhaps even an encounter with a divine being?
 A druid or forest elf is too busy mumbling about external encroachment to pay the party any heed.
 Locals tell the party that wildcats, wolves, bears, giant spiders, or other predators live in this particular wood. Shortly after entering, the party discovers the locals were correct.
 A druid, fey, or wood elf is taking their meal in a nearby clearing, and several animals have come seeking handouts.
@@ -1436,8 +1436,8 @@ A [profession] is attempting to teach several would-be apprentices about the for
 Multiple pieces of gear and personal goods lie strewn about, as if abandoned to allow for faster transit.
 A halfling riding an unusual mount (such as a bear or giant spider) trots past the party at a high rate of speed, sword in the air.
 Not only are the local snakes known to be poisonous, they are so aggressive they will go after humans and other intruders on sight. Fortunately, they are reputedly afraid of fire.
-The party spots a seemingly unattended cooking pot or tea kettle sitting over a camp fire. If they get close, a young female [profession] will rush up, squeaking "Don't touch that! It's mine!"
-Loggers ply their trade, removing dead trees and planting young ones.
+The party spots a seemingly unattended cooking pot or tea kettle sitting over a camp fire. If they get close, a [appearance] female [profession] will rush up, squeaking "Don't touch that! It's mine!"
+Loggers ply their trade, removing dead trees and planting [appearance] ones.
 Unseasonable weather has taken its toll on this section of the forest, with the vegetation slowly dying off and the animals beginning to leave for healthier parts.
 The party is halted by a lone soldier who demands to inspect them and their wagons. If the party fails to comply, two squads of soldiers emerge from the tree line and surround them.
 A dragon has made this portion of the forest his home and demands payment from all who would cross through.
@@ -1477,7 +1477,7 @@ When the party goes deeper into the forest, they increasingly see signs of an ep
 The party sees a halfling attempting to open up a locked and ornate chest. Right as he seems about to pick the lock, a loud "T-ching!" is heard, followed up by the startled halfling declaring "Oops!"
 Confused and furious merchants and wagon drivers argue with each other at an encampment up ahead. Several of the pack animals have eaten leaves from a series of peculiar plants growing nearby, and now act as if they were intoxicated.
 As the party trudges through the frozen tree line, they come upon a portion in which the ice and snow appear to be melting. If the party investigates, they will be greeted by a bemusing sight: a mixed-gender group of spell-casters have daisy-chained a series of spells around their sanctuary to keep the ice and snow at bay. Believing no one would dare move through the forest until the spring thaw, they have abandoned their usual decorum and are now acting like children and youth in summer rather than the responsible adults they're supposed to be.
-The party observes a mixed-gender group of young adults who appear to be having some sort of party in a small clearing. Although still early in the afternoon, they have become inebriated to the point they are no longer able to get their tents erected on their own. They do not realize a bad storm is fast approaching. They have perhaps an hour to get their tents up or they will be left without protection from the rain and cold.
+The party observes a mixed-gender group of [appearance] adults who appear to be having some sort of party in a small clearing. Although still early in the afternoon, they have become inebriated to the point they are no longer able to get their tents erected on their own. They do not realize a bad storm is fast approaching. They have perhaps an hour to get their tents up or they will be left without protection from the rain and cold.
 A chorus of screams draws the party further up the road, where they are greeted by the sight of bandits cowering before a massive bronze dragon. The dragon mocks the bandits, noting their willingness to attack him when they thought he was just a random human scholar. The creature asks if they still believe the strong have the right to overpower the weak.
 That place?" the woodsman says. "Oh, it's easy to get there. Once you make it through the Thicket of Burning Thorns, you should see the Salt Lick River. Just on the other side of the landing is a trail that'll lead you over Fire Ant Mountain and past Zombie Gulch. Take a left when the road forks at Scalding Geyser. It's just on the other side of the Forest of Easily-Terrified Skunks.
 The party stumbles upon a large group of penguins meandering through the forest. Anyone capable of speaking with animals will learn the penguins are grateful for all the fish in the river, but would really love to know where they are and how they got there.
@@ -1485,19 +1485,19 @@ As the party hacks their way through the forest, a teleportation field appears i
 A shifty-looking halfling steps out from behind a tree. He claims to be offering spells and other magic items for sale. If any of the characters can read the hastily-scrawled elven script, they will see the halfling is offering for sale such spells as "Kitten Swarm" and "Obnoxious Wind."
 The party is making their way through the forest when a teddy bear comes running up towards them. "Thank goodness you're here!" it shouts. "The toy factory is under attack by ogres! Follow me!"
 The party has heard of a religious commune in the woods famous for taking in orphans and weary travelers. When they pass near it, they hear screams and shouts. If the party investigates, they will see an armed band has rushed the camp with such speed that the clerics were unable to use their combat spells or ready their weapons. The leader of the band appears to be forcibly attempting to conscript the clerics and orphans into their ranks, and seemingly mean to slay those who do not wish to go along with them.
-As the party approaches a lake, they hear the sounds of a battle taking place. Upon arrival, the party finds a young paladin and his cohort - an unearthly ranger, a female barbarian, a female cleric and a female rogue - engaged with a group of bandits. Before the party can get involved, the paladin pulls off a feint against the bandit leader, who falls for the maneuver. The paladin follows it up by using his shield to strike the leader in the head, knocking the man cold and sending the other bandits fleeing. Rather than pursue, however, the three women start gushing about how incredible the paladin is, causing a catfight to ensue. The stunned paladin can only look on in confusion as the ranger mutters to himself about the rather bizarre group he's found himself involved with.
+As the party approaches a lake, they hear the sounds of a battle taking place. Upon arrival, the party finds a [appearance] paladin and his cohort - an unearthly ranger, a female barbarian, a female cleric and a female rogue - engaged with a group of bandits. Before the party can get involved, the paladin pulls off a feint against the bandit leader, who falls for the maneuver. The paladin follows it up by using his shield to strike the leader in the head, knocking the man cold and sending the other bandits fleeing. Rather than pursue, however, the three women start gushing about how incredible the paladin is, causing a catfight to ensue. The stunned paladin can only look on in confusion as the ranger mutters to himself about the rather bizarre group he's found himself involved with.
 The party sees deer congregating around an exposed salt deposit. This could be a source of meat and the salt to preserve it with, presuming the salt is safe for humans to consume.
 
 |woodHook
 As the party passes beneath a large oak that has grown over the road, a branch swoops down and snatches the backpack from one of your group. The tree proves vocally petulant when you attempt retrieval, tossing the bag from one branch to another.
-The party encounters a young man attempting to protect an injured and horrified young woman from a mob / bandits / hitmen. Although he appears to be normal, the man gives off an intimidating aura, such as that of a powerful spell-caster or an elite fighter. It soon becomes obvious that, regardless of the reason why the young woman is in danger, the young man is not only willing to slaughter the pursuers but may well be capable of doing so if the party fails to intervene.
+The party encounters a [appearance] man attempting to protect an injured and horrified [appearance] woman from a mob / bandits / hitmen. Although he appears to be normal, the man gives off an intimidating aura, such as that of a powerful spell-caster or an elite fighter. It soon becomes obvious that, regardless of the reason why the [appearance] woman is in danger, the [appearance] man is not only willing to slaughter the pursuers but may well be capable of doing so if the party fails to intervene.
 The party observes someone - or perhaps a group of someones - performing a ritual at a shrine in the middle of a grove of trees. The party does not think they have been seen.
 The party strays too close to a hive of stinging insects or an ant mound, causing the creatures to rise up in defense of their territory.
 A retreating army has fled into the woods seeking refuge after a rout. The warriors may mistake the party for a pursuit force from their opponents.
 A local hedge wizard does indeed have a series of hedges and gardens surrounding his tower. He is tending to a new hybrid flower he recently cross-bred when the party approaches. If the party is amicable he'll gladly tell them all about it.
 Pitfalls, snares, metal teeth and other such traps lie dangerously close to the road. A careless hunter, or bandits staging an ambush?
 A hunter, guide or druid tells the party someone important (such as a noble or prominent businessman) has a small keep in the area. The important someone values their privacy, and does not take kindly to strangers appearing without a good reason.
-The party encounters a young woman in a bright red cloak. She is carrying a basket and claims to be heading off to see her grandmother.
+The party encounters a [appearance] woman in a bright red cloak. She is carrying a basket and claims to be heading off to see her grandmother.
 A child has fallen in the river and is struggling to stay afloat. A parent or older sibling is attempting to throw them a rope, but the child is too panicked to grasp it.
 The party encounters a brawl between a group of hill giants and a group of forest giants, who each accuse the other of trespassing into their respective territory.
 Squirrels, monkeys, or other animals taunt the party.
@@ -1513,7 +1513,7 @@ A mysterious convoy trudges through the forest, the commander believing the wood
 The party encounters d20 animals who have become drunk by eating rotting and fermenting. While some of the animals are stumbling about or sleeping, a few have become belligerent.
 The sound of crying leads the party to a child who claims to have been separated from the other children while playing hide-and-seek. Is this a child who was too successful at the game, a victim of a cruel prank, or a means of lowering the party's guard?
 Although it initially seems like nothing more than a normal homestead in the middle of the woods, it is actually the factory from which spell-casters create golems and/or technicians build automatons. The creators will unleash their creations on the world soon.
-The party encounters a group of several brightly-colored ponies, unicorns and pegasii frolicking in a clearing, accompanied by at least one young dragon. Most of the creatures respond delightedly to the presence of the party, and a voice can be heard sweetly inviting everyone to come join them.
+The party encounters a group of several brightly-colored ponies, unicorns and pegasii frolicking in a clearing, accompanied by at least one [appearance] dragon. Most of the creatures respond delightedly to the presence of the party, and a voice can be heard sweetly inviting everyone to come join them.
 Locals are having a mass picnic in the woods as part of a festival. If the party is non-threatening and agrees to be on their best behavior, then the mayor will invite them to join in. The locals baked too much bread for the occasion, and so are willing to share. Even if it's just buttered bread, it's still home cooking. This could also be a prime occasion to network and make contacts.
 The party encounters the ruins of an abandoned city. The sheer amount of broken and discarded objects indicates that the city was abandoned in a hurry.
 Bandits mistake the party for an element of the royal guard and attack on sight.
@@ -1523,7 +1523,7 @@ Although the forest is famous for the large quantity of deer that make their hom
 What appears to be a long-forgotten cemetery isn't quite so forgotten after all. One of the graves is freshly-dug.
 A bear cub has been caught in a hunter's trap, and the mother furiously struggles to free it.
 A frustrated bard or artist sits on a large rock while attempting to work on their latest creative offering.
-The party spots what appears to be an attractive young female humanoid bathing in a nearby river. Is this a local girl thinking she has privacy, the set-up for a trap, or perhaps even an encounter with a divine being?
+The party spots what appears to be an attractive [appearance] female humanoid bathing in a nearby river. Is this a local girl thinking she has privacy, the set-up for a trap, or perhaps even an encounter with a divine being?
 A druid or forest elf is too busy mumbling about external encroachment to pay the party any heed.
 Locals tell the party that wildcats, wolves, bears, giant spiders, or other predators live in this particular wood. Shortly after entering, the party discovers the locals were correct.
 A druid, fey, or wood elf is taking their meal in a nearby clearing, and several animals have come seeking handouts.
@@ -1550,8 +1550,8 @@ A [profession] is attempting to teach several would-be apprentices about the for
 Multiple pieces of gear and personal goods lie strewn about, as if abandoned to allow for faster transit.
 A halfling riding an unusual mount (such as a bear or giant spider) trots past the party at a high rate of speed, sword in the air.
 Not only are the local snakes known to be poisonous, they are so aggressive they will go after humans and other intruders on sight. Fortunately, they are reputedly afraid of fire.
-The party spots a seemingly unattended cooking pot or tea kettle sitting over a camp fire. If they get close, a young female ranger will rush up, squeaking "Don't touch that! It's mine!"
-Loggers ply their trade, removing dead trees and planting young ones.
+The party spots a seemingly unattended cooking pot or tea kettle sitting over a camp fire. If they get close, a [appearance] female ranger will rush up, squeaking "Don't touch that! It's mine!"
+Loggers ply their trade, removing dead trees and planting [appearance] ones.
 Unseasonable weather has taken its toll on this section of the forest, with the vegetation slowly dying off and the animals beginning to leave for healthier parts.
 The party is halted by a lone soldier who demands to inspect them and their wagons. If the party fails to comply, two squads of soldiers emerge from the tree line and surround them.
 A dragon has made this portion of the forest his home and demands payment from all who would cross through.
@@ -1591,7 +1591,7 @@ When the party goes deeper into the forest, they increasingly see signs of an ep
 The party sees a halfling attempting to open up a locked and ornate chest. Right as he seems about to pick the lock, a loud "T-ching!" is heard, followed up by the startled halfling declaring "Oops!"
 Confused and furious merchants and wagon drivers argue with each other at an encampment up ahead. Several of the pack animals have eaten leaves from a series of peculiar plants growing nearby, and now act as if they were intoxicated.
 As the party trudges through the frozen tree line, they come upon a portion in which the ice and snow appear to be melting. If the party investigates, they will be greeted by a bemusing sight: a mixed-gender group of spell-casters have daisy-chained a series of spells around their sanctuary to keep the ice and snow at bay. Believing no one would dare move through the forest until the spring thaw, they have abandoned their usual decorum and are now acting like children and youth in summer rather than the responsible adults they're supposed to be.
-The party observes a mixed-gender group of young adults who appear to be having some sort of party in a small clearing. Although still early in the afternoon, they have become inebriated to the point they are no longer able to get their tents erected on their own. They do not realize a bad storm is fast approaching. They have perhaps an hour to get their tents up or they will be left without protection from the rain and cold.
+The party observes a mixed-gender group of [appearance] adults who appear to be having some sort of party in a small clearing. Although still early in the afternoon, they have become inebriated to the point they are no longer able to get their tents erected on their own. They do not realize a bad storm is fast approaching. They have perhaps an hour to get their tents up or they will be left without protection from the rain and cold.
 A chorus of screams draws the party further up the road, where they are greeted by the sight of bandits cowering before a massive bronze dragon. The dragon mocks the bandits, noting their willingness to attack him when they thought he was just a random human scholar. The creature asks if they still believe the strong have the right to overpower the weak.
 That place?" the woodsman says. "Oh, it's easy to get there. Once you make it through the Thicket of Burning Thorns, you should see the Salt Lick River. Just on the other side of the landing is a trail that'll lead you over Fire Ant Mountain and past Zombie Gulch. Take a left when the road forks at Scalding Geyser. It's just on the other side of the Forest of Easily-Terrified Skunks.
 The party stumbles upon a large group of penguins meandering through the forest. Anyone capable of speaking with animals will learn the penguins are grateful for all the fish in the river, but would really love to know where they are and how they got there.
@@ -1599,14 +1599,14 @@ As the party hacks their way through the forest, a teleportation field appears i
 A shifty-looking halfling steps out from behind a tree. He claims to be offering spells and other magic items for sale. If any of the characters can read the hastily-scrawled elven script, they will see the halfling is offering for sale such spells as "Kitten Swarm" and "Obnoxious Wind."
 The party is making their way through the forest when a teddy bear comes running up towards them. "Thank goodness you're here!" it shouts. "The toy factory is under attack by ogres! Follow me!"
 The party has heard of a religious commune in the woods famous for taking in orphans and weary travelers. When they pass near it, they hear screams and shouts. If the party investigates, they will see an armed band has rushed the camp with such speed that the clerics were unable to use their combat spells or ready their weapons. The leader of the band appears to be forcibly attempting to conscript the clerics and orphans into their ranks, and seemingly mean to slay those who do not wish to go along with them.
-As the party approaches a lake, they hear the sounds of a battle taking place. Upon arrival, the party finds a young paladin and his cohort - an unearthly ranger, a female barbarian, a female cleric and a female rogue - engaged with a group of bandits. Before the party can get involved, the paladin pulls off a feint against the bandit leader, who falls for the maneuver. The paladin follows it up by using his shield to strike the leader in the head, knocking the man cold and sending the other bandits fleeing. Rather than pursue, however, the three women start gushing about how incredible the paladin is, causing a catfight to ensue. The stunned paladin can only look on in confusion as the ranger mutters to himself about the rather bizarre group he's found himself involved with.
+As the party approaches a lake, they hear the sounds of a battle taking place. Upon arrival, the party finds a [appearance] paladin and his cohort - an unearthly ranger, a female barbarian, a female cleric and a female rogue - engaged with a group of bandits. Before the party can get involved, the paladin pulls off a feint against the bandit leader, who falls for the maneuver. The paladin follows it up by using his shield to strike the leader in the head, knocking the man cold and sending the other bandits fleeing. Rather than pursue, however, the three women start gushing about how incredible the paladin is, causing a catfight to ensue. The stunned paladin can only look on in confusion as the ranger mutters to himself about the rather bizarre group he's found himself involved with.
 The party sees deer congregating around an exposed salt deposit. This could be a source of meat and the salt to preserve it with, presuming the salt is safe for humans to consume.
 
 |townHook
 150@[benignTownHook]
 The town guard think the party’s mage is responsible for a magical duel fought atop the cathdral roof last night. Can the party find the real culprit before they are hunted down themselves? Do they dare, knowing that the criminal dispatched his last opponent with a frighteningly high level spell?
 The party is taken aside to the guardhouse upon first entering the city. They are told the guard captain wants to speak with them. When the captain arrives, he attempts to shake down the party under pain of death.
-A woman falls into the street from the second story window in front of the party and dies on impact. Soon after, a PC notices a hooded figure skillfully dropping, uninjured, from another second story window facing into the alley. The figure quickly disappears into a maze of side streets.
+A woman falls into the street from the second story window in front of the party and dies on impact. Soon after, a PC notices a [appearance] figure skillfully dropping, uninjured, from another second story window facing into the alley. The figure quickly disappears into a maze of side streets.
 The party is invited to a manor by an important socialite for a potential job opportunity. When they arrive, they are told to wait in an empty room. Soon after entering the room, the party reaizes they are locked in with a magical ward.
 A lead in your case brings you to a dive bar in the bad side of town. You ask around and find out your suspect is staying upstairs in the owner’s room. You walk up and open the door to find three armed gangsters surrounding your target who’s slipping out the fire escape.
 Upon returning to your room at the inn, you discover a body on the floor with a dagger lying bside it. Soon after, guards storm up the stairs and into your room.
@@ -1655,7 +1655,7 @@ Two speeding coaches collide, leaving a bloody scene and angry families. The roa
 The royal poobah arrives and the main road is blocked indefinitely by royal guards. All traffic must take the back streets.
 Bandits strike a merchant convoy. Two wagons are left burning, while two others have been stolen. Most of the guards in the area rush off after the attackers.
 Townspeople come up to the party and blame them for the local infestation of evil. If the PCs weren’t there, so the argument goes, the evil would go elsewhere. A crowd gathers in support of their fellow citizens.
-A party member is challenged to a duel by a young spellslinger.
+A party member is challenged to a duel by a [appearance] spellslinger.
 A religious ceremony requires that everybody attends with no exceptions. Some who do not are committing crimes in the meantime. Will the PCs be missing from church?
 An authoritarian female figure requires the services of the PCs to make her husband jealous or look weak. He is decidedly displeased unless the PCs handle the situation with great tact.
 A clerk decides for some perceived slight that he just won’t give the PCs the help they need. Attempts to remedy the situation make it worse.
@@ -1672,7 +1672,7 @@ There’s an execution to be made in town. The PCs are given a well-paid offer t
 Fate gives the PCs the devil’s choice; to actively kill a person, or to keep their own hands clean and in so doing cause the death of many.
 Injustice breaks out as revolution against a tyrant. The PCs are there to see the first flames, and may play a pivotal role in either supporting or crushing the uprising.
 A fast ship in the bay is bombarding the helpless port with siege engines. It’s out of range for the locals to deal with, and possibly not alone.
-The PCs hear shrieks from a dark alley where a young maiden just went. Under the full moon, she is painfully turning into a werewolf for the first time.
+The PCs hear shrieks from a dark alley where a [appearance] maiden just went. Under the full moon, she is painfully turning into a werewolf for the first time.
 An enlightened person starts preaching for goodness at the tavern where the PCs reside. The innkeeper is not at all happy about it but does not want to break the law personally by manhadling a holy person.
 There have long been rumours of the cemetery being desecrated by someone stealing the corpses. One night the PCs chance upon the necromancer walking home with newly animated udead.
 The governor, a friend of the PCs, fears he’ll be removed by his superior and turns to them for assistance. He’s right to fear, though not all details are correct.
@@ -1706,22 +1706,22 @@ A player character gets an inheritance, and with that, the family rivalries.
 Dark rumours start surrounding the most conspicuous PC. Then one day he chances on what seems an identical twin.
 An upstart gang of thieves is claiming territory. PCs are approached amicably at first to ensure they will either help or at least stay out of the way.
 A string of building construction accidents has occurred lately throughout the city. Fortunately, no one’s been seriously hurt, but the accidents are increasing in size and damage. The local guild has put up flyers asking for help in solving their problem.
-As the PCs walk across a bridge over the river that cuts through town, they notice a couple of young boys standing near the edge of the bridge. They each have a large rock in their hands, and are watching one of the approaching river boats with smiles on their faces. As the boat gets closer, one of the boys raises his rock as if he is going to drop it.
+As the PCs walk across a bridge over the river that cuts through town, they notice a couple of [appearance] boys standing near the edge of the bridge. They each have a large rock in their hands, and are watching one of the approaching river boats with smiles on their faces. As the boat gets closer, one of the boys raises his rock as if he is going to drop it.
 A crowd of locals gathers, talking about cobblestones that have sunken down in a peculiar line, almost as if the ground has given way underneath. If the PCs follow the indentation, they can see one end appears to go under the cemetery wall.
 While travelling down by the docks, a ship captain waves the PCs over to talk. He’s in a bind, he explains, saying that some of his dock workers didn’t show up for work and he has a lot of cargo to load onto his ship so he can make the tide. The captain and crew look disreputable, and nevous, but he is willing to pay well for the work.
 The PCs come upon a sobbing woman holding a teenage boy who looks to have been severely beaten. If the PCs ask the woman if they can help, she explains her youngest son was beaten up by a gang of toughs. Of more immediate danger though, is that her oldest son has gone off to exact revenge on them, and she’s afraid of what they will do to him.
 Four, strong-smelling, rough-and-tumble characters enter the tavern, obviously looking to make merry. Two saddle up to the bar and pound upon it, demanding grog and hot food. Another, loudly singing a bad, off-key sea shanty, scoops up one of the bar maids and dances around the floor with her. She smiles but shies away from his obvious bad breath and groping hands. Oblivious to her protests, he picks her up and carries her to the stairs toward the bedrooms.
 Down the dimly lit alley, two guards can be seen beating a kneeling man. One rips a coin purse from the kneeling man’s belt and says, "Don’t be late next month, old man."
-Behind a seedy temple, a pretty young woman cries and cowers up against a cold, stone wall. Although her clothes are of poor quality, they are attractive and revealing. A thin, crooked man cruelly twists her arm, spitting epithets and insults, demanding "his money" from her, saying, "if you weren’t so lazy, you’d have earned your quota for the night already!"
+Behind a seedy temple, a pretty [appearance] woman cries and cowers up against a cold, stone wall. Although her clothes are of poor quality, they are attractive and revealing. A thin, crooked man cruelly twists her arm, spitting epithets and insults, demanding "his money" from her, saying, "if you weren’t so lazy, you’d have earned your quota for the night already!"
 Walking by the docks, you are surrounded by a group of sailors carrying clubs wrapped in rags. One steps up and says, "The Imperial navy thanks you for enlisting for a term of service!" The men proceed to attack and try to knock the player characters unconscious.
 While walking on a sunny side-street, a large group of happy and laughing children come skiping and gamboling down into the midst of the PCs. Apparently unafraid of the PCs, they continue to play their silly children’s games, occasionally bumping into characters’ legs and arms, while their gleeful group filters through the PCs. Each child attempts to pick a pocket.
-A large procession of somber men beating wooden drums and chanting deeply wanders down the street, reverently carrying a large coffin. A second group of hooded men sneaks up on roof tops and emerge from doors and alleys all around, drawing weapons. The two groups are going to coverge in a large town square, where the PCs are standing.
+A large procession of somber men beating wooden drums and chanting deeply wanders down the street, reverently carrying a large coffin. A second group of [appearance] men sneaks up on roof tops and emerge from doors and alleys all around, drawing weapons. The two groups are going to coverge in a large town square, where the PCs are standing.
 A tiny, pristine white mouse with pink ears charges out of an alley and leaps onto a PC, coering behind the character’s back. A lone, dirty figure runs out of the same alley a second later, in one hand a long pole with a looped rope attached to one end. He eyes the PCs and demands they tell him where the rat went, and warn they shouldn’t try to snipe his bounty on it.
 Storm clouds hang heavy, and thick cold rain pounds down as it has for hours. Gutters gurgle, and the sewers moan as if carrying some great weight. From a drain, a swarm of thousands of black rats burst out and charge the PCs.
 All the buildings along a street have their front walls separate like bread sliced off a loaf and then come crashing into the street. Who or what caused such an unnatural architectural failure?
 A goldsmith business celebrates their 200th year with a huge celebration wherein free necklaes are handed out to the public. The next morning the building is gutted with no sign of the busness anywhere, then people start getting sick....
 Every day at noon a particular well won’t draw water, and sobbing is heard from below. Dspite many searches, the city guard can find no cause of the sobbing or the daily water shortage.
-A young woman approaches the PCs, insisting one of the party is her husband who went mising two years ago. Other townsfolk seem to agree, despite the PC not knowing her.
+A [appearance] woman approaches the PCs, insisting one of the party is her husband who went mising two years ago. Other townsfolk seem to agree, despite the PC not knowing her.
 When depositing money in the bank, the manager claims to recognise one of the PCs as being the last known heir to a fortune belonging to one of their recently deceased clients. All they have to do to claim it is survive the trials to prove they are a relative.
 After spurning the romantic advances of a girl, a fruit seller’s wares rot in his stall by midday each day. Despite the law having determined the girl is unconnected to his troubles, the merchant believes otherwise and seeks someone to make her lift the curse from his business before he is forced to take matters into his own hands.
 A factory is forced to close their doors due to economic woes. Afterwards, the defunct compny’s products keep appearing on store shelves even though the store owners are stocking the items and no one is working at the abandoned factory any more.
@@ -1761,7 +1761,7 @@ The characters are in a market when rival ethnic groups begin battling in the st
 The defences of a shop of valuables are temporarily out of order, and the shopkeeper asks the PCs to guard the stuff. However, a lot of different forces are interested in some of the valuable objects. Somebody manages to steal something. Do the PCs follow the thief and leave the shop uguarded? (The shopkeeper will suspect that the PCs have taken the missing object for themselves.)
 The main temple is dilapidated, but the municipality has no money to pay the workmen. Tiles from the steeple roof came down on the adjacent city guard headquarters and jail during the last winter storm. People are afraid the next storm might bring the whole tower down as divine punisment for the neglected repairs.
 The PCs spot a previously well-known super hero (complete with tattered cape and costume) on a street corner, wearing a sandwich board advertising a greasy spoon. A group of pre-teens skate past, heckle the hero and pelt him with small stones. The hero sighs and hangs his head as he pasively takes the abuse.
-While en route to another place, the party runs into another kindred tormenting a young woman in the park; she is bleeding and terrified. The pursuer is recognised as the city’s respected Seneschal. What do the PCs do?
+While en route to another place, the party runs into another kindred tormenting a [appearance] woman in the park; she is bleeding and terrified. The pursuer is recognised as the city’s respected Seneschal. What do the PCs do?
 While on the hunt for an old man who promised them important information about the lord of the city, the party enters his house only to find him still warm but dead. Then the city guards break in the door; the corrupt city lord has set them up.
 An overweight copper, panting heavily, chases someone who nears the PCs.
 A character attempts to buy food from a vendor in the market, but the merchant gets angry and refuses because the character does not have any local currency, only foreign coins.
@@ -1772,7 +1772,7 @@ During a magical performance by a gnome mage something goes wrong. A simple tric
 Reports come in about a ghost haunting a dark alley in a city, and anyone investigating the ghost ends up dead in that alley. Most people who live near the alley avoid it and stay in after dark, which is when the ghost is said to come out. The PCs investigate, which will lead them to an elabrate operation in the sewers where crooks are attempting to break into a vault of a nearby builing. They created the ghost story to keep people away. They kill those who investigate, to build up the ghost story.
 A character twists his ankle on the city cobblestones. While treating the injury, which will not yield to traditional cleric ministrations due to an unfortunate allergy, the chirurgeon attempts to apply the virus of an incurable infection. When detected, he uses a Cloak of Darkness to escape and leads the party into a hostile mob.
 A large flood comes from the hills and washes away many residents of a bayside fishing town. Drowned people return as reanimated water abominations that stalk the streets looking for solids to ravage. The PCs must fight their way out of the town and find the source of this bizarre magic.
-A young girl wants the party to find her doll. The girl is the daughter of a mage, and the doll is a miniature golem.
+A [appearance] girl wants the party to find her doll. The girl is the daughter of a mage, and the doll is a miniature golem.
 The party finds a neighborhood’s city watch in a tizzy. Asking questions reveals that a would-be assassin’s poisonous pet snake has gotten loose into the sewer system and is coming up at random. It’s already bitten one person (who survived because their father is a priest) and everyone else who lives in the neighborhood is in grave danger unless the beast can be rooted out.
 The PCs are approached by an ill-looking man who asks them if they know where to find a famous healer. A passerby who ‘overhears’ the exchange tells them he knows the healer’s location, and volunteers to bring the man and the PCs to the healer, where they may get healing spells or ptions. In reality, both men are in cahoots and will lead the PCs to their partners, who are con men or robbers.
 A crowd has gathered on the outskirts of town to listen to a snake oil salesman (magical ptions, cure-alls, inventions). The salesman spots the PCs and calls them out to demonstrate his products and the crowd won’t take no for an answer. Do the PCs try to talk the crowd down or try to sell the con artist’s products when they have no idea what they’re supposed to do?
@@ -1784,7 +1784,7 @@ A powerful fighter hires the characters to lock him up for the night. He has con
 A thriving and beautiful town lies in the middle of a thick forest for its protection. It’s scenic, old, ancient and peaceful. The PCs decide to spend the night as it’s late in the evening. When they awaken, it’s to people crying and screaming in disbelief. The entire forest has disappeared! The town is now in the middle of a dirt patch as far as the eye can see. No one knows what happened or has seen anything. There are no trails of anything, no digging equipment, no sawdust.
 During a dice game in an alley claims of cheating erupt and the characters see one of the gablers stab and kill the dice roller. The party gets a good look at the fellow, who flees, and the other witnesses see that the party gets a good look, but none of the other witnesses do as the boy was wearing a hood and scarf.
 A storyteller tells a random story about a creature from an exotic "Monster Guide Book." The creature suddenly appears from around the corner!
-The PCs encounter a hooded person travelling down the street being followed by two welbuilt men. The first person is an adolescent of the Imperial family who has escaped to see the city unhindered. The men behind him are guards from the palace sent to keep an unobtrusive eye on the teen in case he gets into trouble.
+The PCs encounter a [appearance] person travelling down the street being followed by two welbuilt men. The first person is an adolescent of the Imperial family who has escaped to see the city unhindered. The men behind him are guards from the palace sent to keep an unobtrusive eye on the teen in case he gets into trouble.
 A small insect continuously buzzes the PCs’ ears. The insect, if listened to closely, can be heard giving warnings, secrets or other vital information to the PCs’ quest. The insect can be an NPC transformed or simply an intelligent being in disguise.
 A landlord is convinced one of his tenants is actually a dragon disguised as a human. He wants the tenant out but is afraid to evict them himself. He wants the PCs to evict the tenant without causing damage to the building.
 A group of women are attempting to lynch a beautiful girl claiming she is a witch and that she has bewitched their men folk. None of the men folk are around, so the women are taking this chance to kill the girl. Is the girl a witch, a succubus or innocent?
@@ -1819,7 +1819,7 @@ Goods are going missing from stores in broad daylight. Owners have gaps in their
 While moving through a marketplace, a character notices an old foe watching him from a window of a building across the street. The old enemy quickly disappears when noticed, and before the character can go to investigate, something else starts happening with other members of the group nearby.
 The Scaly Schooner on the Fisherman’s Wharf explodes as the PCs pass by. Amongst the screams and fire, a badly burnt, wild-eyed man in scorched pirate’s garb stumbles over to the PCs and hands them an enormous red ruby. "It’s not the last one, but don’t seek the treasure!" he hisses at the PCs before collapsing at their feet.
 Every purchase made by a PC nets them extra change or additional items. Something on their clothing - a symbol, insignia, brooch - entitles him to these boons.
-A child is crying in a dark alley. If PCs decide to help the child, it attacks them with blood coered face and black eyes. Will the PCs kill a young and innocent child?
+A child is crying in a dark alley. If PCs decide to help the child, it attacks them with blood coered face and black eyes. Will the PCs kill a [appearance] and innocent child?
 On the night of the new moon for the past three months, two ships with black sails have put into the city port, arriving and leaving in the dark of night. None of the watchmen at the port have seen them discharge or take on any cargo or passengers. Tomorrow night is another new moon.
 PCs meet a bounty hunter at a tavern. They are asked to help him capture a villain holed up in a nearby building.
 The party evades the watch by means of an abandoned branch of the city sewers. They suprise a group of giant otters escorting a person to the river. Do the PCs fight or parley with the initially hostile otters?
@@ -1827,13 +1827,13 @@ At a tavern, the party finds an immaculately dressed half-ogre (who is wearing c
 The PCs are shopping during market day in a city when a preacher telling of the horrific doings of an oppressive government is arrested and forcefully taken away, screaming. Do the PCs intevene and risk being noticed by the city guardsmen and hunted down, or do they let this injustice slip to avenge the preacher another day?
 A foreign dignitary is murdered at an out-of-the-way inn and the dignitary’s escorts all suspect each another. As a group of objective outsiders, the PCs are brought in to investigate the murder when all they want to do is rest for the night.
 A merchant is whipping the bejeezus out of an intelligent talking mule who is desperately tring to explain that the load the merchant wants it to carry is too heavy. The merchant is too furious with the mule to listen, and the mule is stubbornly refusing to obey, which only makes the mechant angrier. The load may or may not be too heavy, but the beating is severe and getting worse. The mule appeals to the gathered crowd, watching and mostly silent, for help.
-A young man, who is obviously not an adventurer, claims he has a map showing the location of the cache of an adventuring group that went missing. He offers to sell the map to the PCs.
+A [appearance] man, who is obviously not an adventurer, claims he has a map showing the location of the cache of an adventuring group that went missing. He offers to sell the map to the PCs.
 One of the party has an allergic reaction to an exotic spice or pollen in the air.
 A merchant’s son decided to go adventuring and got killed. His adventuring companions refuse to relinquish his sword back to his family, although the family has a legal will documenting their rights to all his property. The PCs have been contracted to recover the boy’s possessions.
 Rats have been seen exiting the sewers in large numbers in one section of town. Sewer worers have explored the region and reported nothing except an eerie calm and a feeling of being watched. The PCs find a homeless man, stripped naked and beaten, huddling near a sewer entrance and babbling that "the Master has arrived."
 A chatty bard walks alongside the party repeating random bits of conversation.
 A small group of goblins wants to enter the town. They claim they want to settle down and open a tinker shop. Is this some kind of ruse?
-A geezer follows a young and handsome dandy wearing a sword: "Yeah, now yer talkin’, Roy!"
+A geezer follows a [appearance] and handsome dandy wearing a sword: "Yeah, now yer talkin’, Roy!"
 A prominent businessman, known for being honest and good-natured, disappears. The PCs stumble across his body, tattooed with symbols of an evil deity and garbed in dark robes. Was he a cult’s victim or member?
 The boards in front of the general store creak as the PCs approach, but no one can be seen walking across them.
 A merchant is hosting a party and hires the PCs to find and furnish the main course for the feast. The problem is the merchant wants them to capture it and render it harmless so it can be slaughtered at the feast. But where do you find a basilisk, and how do you make one harmless witout killing it?
@@ -1860,7 +1860,7 @@ While walking to town a PC stumbles and falls into an old mine shaft and finds a
 The Overlord challenges everyone to recover decorative tiles that bear parts of a message. It concerns a future quest to a neighbouring town’s temple. The party runs afoul of a competing party of searchers.
 An orphanage has caught fire, and most of the children are trapped inside. The building is threatening to collapse, and the cries of children can be heard, even over the roar of the flames.
 The PCs are contracted to get a rare item in a city but learn its owner is offering it as a rward in a tournament. Do the PCs lie their way into the tournament so they can win the item, or do they try to steal it from under the entire town’s nose?
-A young woman is in the middle of the walkway on her hands and knees. She seems to be deperately searching for something. There is a pair of glasses at the party’s feet.
+A [appearance] woman is in the middle of the walkway on her hands and knees. She seems to be deperately searching for something. There is a pair of glasses at the party’s feet.
 A house cat is in the tree. It is not distressed. In fact, it looks like it is stalking someone, about to pounce on the party or some other unwary traveler.
 A few sun bleached papers blow by. Soon after, a harried scribe runs past. He offers a copper piece to recover any of the papers.
 Upon arriving in town, people stare at the party from every window, door, balcony and street corner. Someone offers a funny insult, and soon everyone is gutting themselves, laughing at the PCs.
@@ -1869,7 +1869,7 @@ In a store window, a living mannequin sneezes, swears, and gets back into charac
 A little kid asks the party what they are doing in town. A shadowy figure hides nearby, whispeing into the air at no one.
 A hat rolls along in the wind. In the headband is sewn a map. The hat is covered in dried blood.
 A dog slinks up to the party and begs for scraps. A bloody mark has been carved into its flank. The mark might be a clue or cult symbol or just a warning.
-A group of young nobles are racing horses through the streets and nearly ride down the charaters. The nobles are arrogant, rude and more than slightly drunk. How the party handles this sitution will determine how well they are received by the various factions in that city.
+A group of [appearance] nobles are racing horses through the streets and nearly ride down the charaters. The nobles are arrogant, rude and more than slightly drunk. How the party handles this sitution will determine how well they are received by the various factions in that city.
 A bride and groom ride down the street in a horse drawn carriage. The horses suddenly rear up and the cart threatens to topple. A terrified goblin tries to dodge flailing hooves. Do the PCs go to the cart, horses or goblin?
 Someone is targeting prostitutes the PCs have had dalliances with. They soon become unwecome in the local fleshpots and may become suspects in the investigations of the local gendarmes.
 The Curling Shovel tavern is not the wealthiest in town, but it does have a base of returning customers. This is despite their lacklustre swill and dog trough meals. Something must keep all those patrons coming back, but what is it and does it have anything to do with the nightly gurgling noises heard from the sewers beneath the kitchen?
@@ -1880,7 +1880,7 @@ A drought wreaks havoc in town. The PCs are asked by a medicine man to help loca
 A small child steals something from a PC. It runs away to a big bad guy and gives this thing for food.
 An apocalyptic street preacher has been predicting the weather and minor events with unering accuracy. As the PCs pass by one day, they hear him predict an important person’s death.
 One of the PCs is grabbed from behind and taken hostage by a robber being pursued by the city watch.
-People in a small town are nervous about news of a massive army heading in their direction. People are panicking and leaving the town. Rumours circulate as to the appearance, traits, horors and evil this army does. Upon investigation, the PCs find out these rumours have been going on for some time, and usually perpetuated by an old geezer who supposedly saw this army first-hand when he was young and fought them in person. Following him will lead the PCs to a secret meeing with the old geezer and a prominent man who is trying to scare the entire town away so he can claim it all for some richly gain (gold or treasure buried underground, a hidden mine rich in veins
+People in a small town are nervous about news of a massive army heading in their direction. People are panicking and leaving the town. Rumours circulate as to the appearance, traits, horors and evil this army does. Upon investigation, the PCs find out these rumours have been going on for some time, and usually perpetuated by an old geezer who supposedly saw this army first-hand when he was [appearance] and fought them in person. Following him will lead the PCs to a secret meeing with the old geezer and a prominent man who is trying to scare the entire town away so he can claim it all for some richly gain (gold or treasure buried underground, a hidden mine rich in veins
 of [material], a magic artifact long disappeared there, hidden catacombs containing a evil book or gem).
 The party spots a crowd forming in a large marketplace. It turns out that members of two or more rival mage guilds have literally bumped into each other, and harsh words are being said. There is a real possibility this could break out into a fight, especially since the city watch is nwhere to be seen.
 The youngest member of your group angers a patrol of the city guard, and is chased down Gerdil Lane, well-known for its seamy inhabitants. Now it’s a lynch mob! How to rescue him and avoid attracting the ongoing hostility of the patrols?
@@ -1900,13 +1900,13 @@ A group of laborers is having a loud argument with the person who hired them. Th
 A boy is kidnapped. The PCs are asked to locate him. The only information they are given is the kidnappers are known to work out of a certain location.
 A streak of bad luck has hit town hard. People have been injured in accidents, fires, sicness. People report seeing a black cat near them before the accidents happen. Confronting the cat should be entertaining as trying to harm it will only bring bad luck to the PCs (bow strings break, sword slips out of hand and gets lost, shoes become untied, etc.). Catching it will be difficult as
 it is with any cat. Best thing to do is follow it and see where it goes, which will lead them to a big tree that the cat enters. The cat is actually a shape shifting spirit, a trickster, just having fun with the town. The PCs will have to pass a test or riddle or perform some task for the spirit to get it to leave the town alone.
-A young noble claims to be the dispossessed heir of the ruling family. When the guard come to question him, he claims the party can prove his claims to royalty are true.
+A [appearance] noble claims to be the dispossessed heir of the ruling family. When the guard come to question him, he claims the party can prove his claims to royalty are true.
 Part of the Old Town wall collapses, revealing a passageway descending to who knows where. Ah well, down we go. But the party meets (fill in your favourite enemy group from your campaign). A running battle up and down crumbling stairs ensues, until everyone falls into a rotting Great Hall, where a demon arrives to referee the battle. Fight the demon, fight your enemies, fight everyone, run away?
 PCs are caught in a fight between two rival gangs and are mistaken by both sides to be their enemies.
-A tentacled and somewhat eldritch horror approaches the PCs looking for investors in what appears to be a pyramid scheme, announcing from an unseen mouth that they can get in on the ground floor of a wonderful money-making opportunity. It promises a thousandfold return on any investment, and no ill will if the offer is refused, though it leans heavily on the PCs to accept its offer via partial glimpses of its true form.
+A tentacled and somewhat eldritch horror approaches the PCs looking for investors in what appears to be a pyramid scheme, announcing from an unseen mouth that they can get in on the ground floor of a wonderful money-making opportunity. It promises a thousandfold return on any ingarment, and no ill will if the offer is refused, though it leans heavily on the PCs to accept its offer via partial glimpses of its true form.
 A flustered woman drops her shopping. A feral cat trails the party.
 A passing child drops her candy and cries.
-Two young nobles approach the noblest-looking pair of party members and demand the chsen PCs act as seconds in their duel. The PC seconds must negotiable the details of the duel. If the duel results in death, the seconds will be charged as accessories to murder, and the PCs may have to flee the city. On the other hand, if the duel is non-fatal, they could gain honor and respect by behaving in an honorable manner.
+Two [appearance] nobles approach the noblest-looking pair of party members and demand the chsen PCs act as seconds in their duel. The PC seconds must negotiable the details of the duel. If the duel results in death, the seconds will be charged as accessories to murder, and the PCs may have to flee the city. On the other hand, if the duel is non-fatal, they could gain honor and respect by behaving in an honorable manner.
 While moving through a crowded marketplace, a character of short stature manages to run into a large passerby. The two collide and both fall to the ground. The larger pedestrian had been carrying an armload of packages, many of which were damaged in the fall.
 A large toad sits on a barrel outside a seedy tavern attended to by a swarthy twinkle-eyed peddler. He claims that one lick of his skin will reveal the path to great fortune. Any takers are overcome by visions of adventure, treasure, and glory followed by several days of serious illness.
 One benign item the PCs carry is considered taboo by the townsfolk. People either bow or kneel, avert their eyes, or leave the PCs’ presence when said item is brandished. The item the population revere was lost, stolen or destroyed at some point in the town’s history and it has now returned, thanks to the PCs.
@@ -1951,12 +1951,12 @@ One of the party has an intense itch. It spreads to anyone he touches until cure
 The characters are drafted into a posse as a group of armed outlaws have just robbed the tax collector, and the lawful authorities have the right to require armed freemen to perform this public service. If the characters do not step up, they will chase the outlaws for 2d6 days before the law enforcement officials give up the chase.
 A random party member is stung by a bee. They spot a strange man sitting on a step nearby, tracing the air with his finger, muttering to himself. Suddenly, he jabs a finger in the air, and then another PC gets stung.
 A religious festival celebrates the Goddess of Truth and Magic. While the priesthood are soemn, the rest of the revelers seem intent on having a good time. The PCs can afford to let their guard down, as the priests of She Who Sees can intervene before troublemakers, pick pockets or otherwise cause disturbance.
-A young man approaches the PCs claiming to be the real Sheriff of this area. He wants to deutize the PCs and send them into the nearby mine to investigate strange lights and missing cattle.
+A [appearance] man approaches the PCs claiming to be the real Sheriff of this area. He wants to deutize the PCs and send them into the nearby mine to investigate strange lights and missing cattle.
 A sewer worker is found after being lost for several days and claims he saw a lizard man leaing a monster on a leash through the sewers. The monster touched his lantern and it crumbled to dust. The lizard man left him to find his way out of the sewers, blind.
 Anyone drinking the water becomes ill. The sickness lasts for a few days and causes vomiting, aches, pains and delusions. Other towns in the area have also been affected. Investigating this, the PCs find out the same river flows past all the towns affected. The PCs must travel upstream to find the source of the sickness, which brings them to a coven of witches poisoning the water.
 An old-timer runs up to a random party member yelling "Dan? Dan! Ya ain’t changed a bit in nigh on ta 15 years. It’s like seen’ a ghost..."
 Dogs chasing each other run by. One of them gets vicious and a wounded dog turns on the next weakest thing it spots - a PC, homeless man, wife bringing home baking....
-A rich man is carried past in a sedan chair. A young man trots along, waving some kind of paper diagrams at the man, saying, "It is located here, in the heart of it, I am certain! I just need a loan big enough to put a group together!"
+A rich man is carried past in a sedan chair. A [appearance] man trots along, waving some kind of paper diagrams at the man, saying, "It is located here, in the heart of it, I am certain! I just need a loan big enough to put a group together!"
 A bad batch of purple hued fungus in the food has left the magistrate a little shorthanded as the guards are all bedridden. The PCs are asked to lend a hand until the guards are up and about. That night a rash of gnome thieves reign terror on the town, stealing anything not nailed down and leaving little clockwork surprises for the locals and the PCs.
 A bard recognizes the PCs and begins singing ballads about their various exploits. The PCs are soon surrounded by a mob asking for favors and blessings.
 A bunch of awakened rats have escaped a laboratory and, mad with pain, attack the first things they see: the PCs. Though insane, they are cunning, and one of them has developed sorceous powers.
@@ -2047,10 +2047,10 @@ A witch puts a curse on city inhabitants where their souls are put into frogs. T
 A woman in rags bursts from a nearby alley, city guards in hot pursuit, and slams into you. Deperation on her face, she throws a small cloth-bound bundle into your hands and gasps, "Protect the Kingdom. Don’t let them get this!"
 A woman wearing clerical robes stands in the street shouting about the gods. A priest from a nearby temple approaches her, and a physical altercation begins.
 A wrong turn during a city festival places the characters dead center in the path of a classic "bull run" already in progress. Better hope you can outrun angry animals.
-A young gentleman asks the PCs for help in locating his younger sister. He was not supposed to take her into the city (especially not the seedier parts!) but it was her birthday and she asked for the outing as a treat, only to vanish the moment he turned his back. He is reluctant to report her disappearance to the guards or his family, but was the girl abducted for some nefarious purpose, or did she run away of her own volition?
-A young girl struggles to carry two heavy buckets of water through the marketplace, despite being tormented by a pair of small monkeys who seem to be flinging pebbles at her. Off to the side, a pair of drunk gentlemen are placing wagers on whether or not she will drop the buckets before getting them back to her market stall.
-A young noble asks the PCs to take him on adventures. Even if the PCs refuse, he will try and follow. He is incompetent and a danger to himself and others, but his family is powerful, so it might not be a bad idea to let him come along.
-A young princess and magical sword are missing - the King’s own sorcerer flew away on a flying carpet with them. The sorcerer will try to get his youth back by sacrificing the girl to a huge snake while she tries to protect herself with the magical sword.
+A [appearance] gentleman asks the PCs for help in locating his younger sister. He was not supposed to take her into the city (especially not the seedier parts!) but it was her birthday and she asked for the outing as a treat, only to vanish the moment he turned his back. He is reluctant to report her disappearance to the guards or his family, but was the girl abducted for some nefarious purpose, or did she run away of her own volition?
+A [appearance] girl struggles to carry two heavy buckets of water through the marketplace, despite being tormented by a pair of small monkeys who seem to be flinging pebbles at her. Off to the side, a pair of drunk gentlemen are placing wagers on whether or not she will drop the buckets before getting them back to her market stall.
+A [appearance] noble asks the PCs to take him on adventures. Even if the PCs refuse, he will try and follow. He is incompetent and a danger to himself and others, but his family is powerful, so it might not be a bad idea to let him come along.
+A [appearance] princess and magical sword are missing - the King’s own sorcerer flew away on a flying carpet with them. The sorcerer will try to get his youth back by sacrificing the girl to a huge snake while she tries to protect herself with the magical sword.
 After a day of shopping prior to leaving on a big adventure, one of the PCs returns with a child. The trouble is, they are being chased by a flying gargoyle.
 After a short and fatal scuffle with robbers in a bad district, cries can be heard in the ditance: "City guards approaching." One bystander notes the party is now in trouble because killing inside the city is strictly forbidden, even in self defense.
 The PCs see a fight between three city militia and a trio of strangely garbed fighters. Then they see three mages, dressed similarly to the strangers, preparing to cast a spell on the fighting sextet.
@@ -2075,7 +2075,7 @@ The Queen asks the PCs to stop a riot between the guards and the townspeople wit
 Armed guards clear the streets in front of a long procession. A savage animal stands upright, wheeled on a rolling restraint cart and covered in chains. This bear-man has a steel-reinforced muzzle clamping his blood-stained jaws shut. You see the bars of the muzzle start to buckle and break; the nearest guards do not.
 As a diversion, bad guys have set up orphans chained to apple barrels selling apples. The apple barrels are loaded with explosives that detonate when the chain is broken or stretched to its limit.
 As the PCs return to town with their bounty-head, the townspeople meet them and demand they turn him loose. Included in the mob are the mayor, women and children. The sheriff who set the bounty is nowhere to be found.
-As the PCs walk the evening streets, perhaps heading back to their lodgings, they see a person standing near an alley get sapped over the back of the head by a hooded figure and then dragged into the shadowy alley. While watching the body disappear into the shadows they see the hooded figure look up at them and smile, a glint of light off a small set of fangs reflects in the moonlight. Does the group investigate?
+As the PCs walk the evening streets, perhaps heading back to their lodgings, they see a person standing near an alley get sapped over the back of the head by a [appearance] figure and then dragged into the shadowy alley. While watching the body disappear into the shadows they see the [appearance] figure look up at them and smile, a glint of light off a small set of fangs reflects in the moonlight. Does the group investigate?
 After tracking a pickpocket down, the PCs find he is a member of a gang of runaway and homeless children run by fear and intimidation by a high ranking member of the ruling class. Do the PCs help the children or do they leave them to their fate.
 Beneath the city are a series of ancient catacombs filled with the bones of hundreds or thosands of people buried centuries ago. When undead suddenly begin emerging from these mostlforgotten tombs and terrorizing the city folk, the PCs are called on to fight them, and to ultimately to uncover who or what is creating the creatures in the first place.
 Dozens of bird flocks arrive every day. Soon, there isn’t any space available on any roof top. The birds are not aggressive, but they are eating gardens, plants and outside food, and making a lot of noise. All but the oldest storytellers have forgotten that, hundreds of years ago, the bird god’s avatar gave his life in a fierce battle exactly where the city has been built.
@@ -2103,7 +2103,7 @@ Guests who stay at a dockside inn sometimes disappear forever from their rooms i
 A dark stranger approaches the party. He is a litigant with a charge of malconduct on the part of the PCs. Real, or imagined - carrying a concealed weapon, a bad magic item, an ancient curse that haunts their steps, a badly disposed of undead follows them like a diseased puppy, not greeting some town dignitary in the proper way, failure to declare certain illicit goods at the gate, trading without a permit, looking lustfully at the daughter of a dignitary - anything to get the PC to court. There, it is revealed that besides the one charge, one of the PCs is also the suspect in a famous murder case (preferably the rogue-type character). Now they have two problems on their hand.
 In a crowded bar or restaurant, the PCs manage to offend a wealthy noble by sitting at his usual table. Can they smooth things over, or does it escalate into violence?
 In a crowded market, a trio of horsemen gallop through, smashing carts and forcing people aside, even trampling those who are too slow. They shout "[personName] is dead! Long live [personName]!"
-In a crowded marketplace, a young woman calls for help because her necklace has been stlen by a clever pickpocket. However, this is a scheme to allow her to unobtrusively pay off a debt incurred to a mobster, and the necklace was never actually stolen.
+In a crowded marketplace, a [appearance] woman calls for help because her necklace has been stlen by a clever pickpocket. However, this is a scheme to allow her to unobtrusively pay off a debt incurred to a mobster, and the necklace was never actually stolen.
 In a crowded square a stranger shoves a sealed package into a PC’s hands, saying, "Finally I found you, you know what to do!" The stranger disappears in the crowd leaving the PCs to wonder what to do with the package. It may contain something horrible or valuable or is just a confusing trinket.
 In a nearby alley, three thugs look to be assaulting a woman. In reality, they are a group of rogues luring would-be rescuers into their trap.
 In a park you come on a couple of people playing a game of chess or some other game of metal skill.
@@ -2147,7 +2147,7 @@ The PCs witness a horse dying in front of a merchant’s shop they wanted to vis
 The PCs are hired to escort a tavern’s special brew to a private party across town. However, the thieves’ guild want it for their own soiree.
 The PCs come across a new game that seems to have it’s players in a thrall. Is this some curse or far realm mind game?
 A gambling den has a new twist on an old card game. Their version of War involves actual cobat to resolve the card game. The PCs are asked by a card player to act as "seconds" in the livcombat sections of the game.
-The PCs hear about heroes well known and loved in the area. The next day, the heroes happen to show up. Young women go crazy, older ones ask the heroes to bless their babies, the sick and weak reach out to touch them for blessings. When people ask the heroes their most recent achievment, they pretend to be responsible for the latest heroic act the PCs did.
+The PCs hear about heroes well known and loved in the area. The next day, the heroes happen to show up.[appearance]women go crazy, older ones ask the heroes to bless their babies, the sick and weak reach out to touch them for blessings. When people ask the heroes their most recent achievment, they pretend to be responsible for the latest heroic act the PCs did.
 Rats have been overrunning the PCs’ favorite tavern and need to be eradicated. Where have they come from and what is to blame? Is it because of spoilt food stock in the cellar, the angry druid patron who was thrown out last week for not paying his tab, wererats from the sewers or wter elementals causing flooding after a failed arcane experiment.
 "I’ve never seen it before in my life." "Sure", says the guard, "some _other_ thief stole it yesterday, and hid it in your backpack for you to keep it safe...."
 A nearly forgotten religion now leaps in popularity. The decrepit church has a stained-glass window on its second level facing the street and, once a week, shadows in the shape of the relgion’s central figure appear in the window beckoning to the faithful. Are the divine appearances real or a ruse?
@@ -2167,7 +2167,7 @@ The circus arrives in town. A few days after, a reward is posted for the capture
 The city aqueduct breaks. It is impossible to get dwarven engineers in to fix it because water wars have broken out.
 For a holiday, the city has a large scale scavenger hunt. The PCs mistake a coded time, loction and target scavenger hunt message as an assassination order.
 The city guard is drunk and disorderly. How to quietly subdue them without letting the bad guys know the town is unguarded?
-The city guard looks for two religious zealots reportedly to have come into possession of the King’s advisor’s spellbook. A young cleric and an old beggar approach the PCs asking for help in leaving the city by means other than the gates.
+The city guard looks for two religious zealots reportedly to have come into possession of the King’s advisor’s spellbook. A [appearance] cleric and an old beggar approach the PCs asking for help in leaving the city by means other than the gates.
 The city has an ancient artifact - a large bell (perhaps in the highest tower of the palace, or the city hall or the grandest temple) that tolls on its own when a figure of major importance dies. One day it begins to ring, and the city falls into a panic - only to discover that all of the obvious candidates seem to be alive and well. Was it just a prank, has someone died and been secretly reurrected or replaced, or is there another explanation?
 The City Planning Department has been working overtime lately, upgrading and re-routing streets like crazy. It’s only when the odd storm starts to form over the City Accounting Department that anyone realises they have built a demon summoning sigil into the very stones of the city itself.
 A strange flying machine just crashed into the 15th floor of the Tower Of The Forgotten. The place is known to be haunted by the spirits of old wizards; a few guards went in but never came back.
@@ -2215,7 +2215,7 @@ There is unrest in a city overrun with refugees. The mayor has enforced strict l
 The PCs enter a town populated only by children. After investigation they learn the adults will be back soon; they always leave town at full moon because a demon eats the souls of the adults. In fact, that demon thing is a fake, but a thief takes advantage of the unguarded houses.
 This is OUR territory. The local thieves guild hears that an experienced thief has come to town who has not checked in with them. They send a few associates to visit the party rogue to remind him of the guild’s fees and rules, and, of course, penalties for failing to abide by them.
 A PC is awoken by the banging on the door. It is the Mayor’s daughter and she is begging for help as the Mayor was kidnapped by an earth elemental in the night.
-Three young women see one male PC and descend on him, each one calling him names and berating him for not being faithful to her. However, this is all a distraction for their male partner, who tries to pickpocket the PC’s companion while distracted by the girls.
+Three [appearance] women see one male PC and descend on him, each one calling him names and berating him for not being faithful to her. However, this is all a distraction for their male partner, who tries to pickpocket the PC’s companion while distracted by the girls.
 A shop selling delicious chocolates is doing a booming business, and the sweets are suspiciously good. The party is hired by a rival candy-maker to steal the secret recipe. Perhaps an actual additive ingredient has been placed in the candy? Or is the concoction magically enhanced?
 Two food vendors have set up shop on either side of a narrow but busy thoroughfare. Their advertising calls consist mostly of insulting each other’s wares. It’s a scorching hot day, tempers are rising, and they begin to threaten each other with physical violence about the time the PCs show up.
 Two large bands of kobolds are seen marching towards the city from opposite directions, one wearing red sashes, the other blue.
@@ -2235,12 +2235,12 @@ You’re in the army now. The PCs are drafted into the local militia as the loca
 You are flirted with by an attractive person. Their significant other notices.
 You are in a store or in front of it when a pick pocket or thief is seen and starts to run. Either you are the one to see the theft or someone yells to "stop thief."
 You are walking along a street just as a horse or other animal decides to relieve themselves.
-You have an overdue fine. The party is asked to help in the investigation of a murder at the fmous but dull library. Why would anyone murder the young assistant librarian, and why would they steal such mundane books?
+You have an overdue fine. The party is asked to help in the investigation of a murder at the fmous but dull library. Why would anyone murder the [appearance] assistant librarian, and why would they steal such mundane books?
 You have entered an unfamiliar town and your weapons have been sealed. A gang of adolecent toughs try to pick a fight, escalating from taunts to bumping and shoving, to throwing street mud. The xenophobic town guard won’t intervene unless it goes to fists or weapons and then all of you might be arrested.
 Your favourite cafe gets invaded by gang members. They want you to scram so they can enjoy their new hangout in peace. Will you drive them out of the area or join their gang to keep going to the cafe?
-Citizens turn up inexplicably dead in their homes, each of which featured the same unusual cut flowers on display. Investigation can trace the flowers to a small florist’s stall in the market, run by a sweet young girl. She is enjoying the prosperity her new flowers are bringing, but becomes cagey and guarded when asked where she has been finding them (growing on the burial mound of executed sorcerer?).
+Citizens turn up inexplicably dead in their homes, each of which featured the same unusual cut flowers on display. Investigation can trace the flowers to a small florist’s stall in the market, run by a sweet [appearance] girl. She is enjoying the prosperity her new flowers are bringing, but becomes cagey and guarded when asked where she has been finding them (growing on the burial mound of executed sorcerer?).
 Brutal murders of the poor and homeless wrack the city. A wealthy nobleman hires the PCs to watch his wandering daughter, worried about where she goes when she sneaks out at night. Whilst she is always connected to the victims in some way and initially seems to be the killer, she is in fact trying to help the disadvantaged to bring some meaning to her jaded life. The real killer is an obsessed stalker, who follows her at night and erases the unworthy scum who are the recipients of her attention.
-A hauntingly fragile song echoes through the streets at dusk. The PCs trace the origin to a church’s bell tower, from which a jilted young lover threw herself in despair to her death. Now her spirit sings her lament to the setting sun. Does she recount her story and ask the party to deliver her by avenging her wronging? Or will she bitterly pitch any male characters from the tower to the cobbles below?
+A hauntingly fragile song echoes through the streets at dusk. The PCs trace the origin to a church’s bell tower, from which a jilted [appearance] lover threw herself in despair to her death. Now her spirit sings her lament to the setting sun. Does she recount her story and ask the party to deliver her by avenging her wronging? Or will she bitterly pitch any male characters from the tower to the cobbles below?
 A PC gains a secret admirer who leaves letters declaring her admiration. The notes become increasingly urgent and are accompanied by sinister gifts of sacrificed small animals and occult fetishes. Soon the PC receives fresh body parts and accusations of abandonment (the admirer will never directly confront the PC, but will wreak havoc on his property and relations in the PC’s asence).
 A mischievous fairy decides to have some fun with a PC, comically disrupting him at delicate moments by making flowers grow out of his ears, turning his helm into a bedpan, etc. With an important meeting on the horizon, what can the PC do to rid himself of this cheeky nuisance?
 A diviner hires the PCs to fetch him some rare mushroom. Unfortunately, they only grow amongst the haunted graves of the abandoned Old Cemetery, and must be harvested on a moonless night or be rendered useless. Trapped in the mushrooms are the restless souls of those whose grave-earth nourished them. From these, the diviner wrings out ancient family secrets and scandals with which to blackmail the living.
@@ -2248,9 +2248,9 @@ A group of goblins, fresh from their foray from the sewers beneath an alchemist�
 A noble is mortally offended by a PC’s behavior and challenges the PC to a duel a l’outrance (to the death). There is no way to back out without violating social mores and ruining the PC’s reputation. Careful investigation will reveal that the noble and PCs were subtly maneuvered into it by a third party trying to get the noble killed. And if the wandering adventurer gets killed instead, who cares?
 A child asks the PCs to help him find his pet dog. This simple task might lead them someplace where they are viewed with greatest suspicion.
 A grocer in the market motions the players behind his cart. In a low voice, he advises that a rival purveyor of vegetables has somehow sabotaged the farms that the grocer relies upon, and as a result he is forced to sell stale, imported wares at inflated prices. Would the players be interested in investigating, or perhaps taking more direct action against the accused party, for a reward?
-The party notices a hooded character attempting to sneak around in shadows doing his best to not be observed. The hooded man is trying to meet with the wife (or daughter) of a local nobleman for a romantic encounter. The party could get in the nobleman’s good graces by protecting his honor and preventing this meeting, or will they allow love to run its course?
+The party notices a [appearance] character attempting to sneak around in shadows doing his best to not be observed. The [appearance] man is trying to meet with the wife (or daughter) of a local nobleman for a romantic encounter. The party could get in the nobleman’s good graces by protecting his honor and preventing this meeting, or will they allow love to run its course?
 A leper has dropped his coin pouch. Should the PCs get his attention, he will gladly share valuable information as reward. However, should the PCs take the pouch, all who touch it are susceptible to his disease
-A young girl terrified of the local orphanage turns up ill with an incoherent story about the other children biting everyone.
+A [appearance] girl terrified of the local orphanage turns up ill with an incoherent story about the other children biting everyone.
 A group of kids plays on a gallows. One has put a rope around his neck, pantomiming being strangled, and it looks like another is sneaking up to kick him into the hole.
 A beautiful NPC falls in love with one of the PCs and thus starts several encounters involving her suitors. Some try to kill the PCs while others simply want to run them out of town. The girl is theirs and they don’t need any more competition.
 The PCs get embroiled in a local election scandal and are asked to help find the culprit behind fraudulent votes. Perhaps one of the candidates is glamoring the populace into voting for the "right" person using magic, alchemy, or other tricks.
@@ -2360,7 +2360,7 @@ Passing child drops pottery, cries
 Raven lands in path, stares, leaves
 Injured mounted scout charges through the street
 Noble is carried past in a sedan chair
-Two hooded people whisper on street
+Two [appearance] people whisper on street
 Young consumer is watched closely
 Singing floats out of nearby building
 Circus wagon trundles past, animal calls
@@ -2401,7 +2401,7 @@ A crazy man points at PC's equipment and lists its magical properties--and he's 
 A little boy confronts the PCs and shoots them with an imaginary crossbow
 PCs pass an alleyway blocked by a new spider web
 A fishmonger dumps a cart of rotten fish for scavengers to clean up
-A young noble passes trailed by a pickpocket
+A [appearance] noble passes trailed by a pickpocket
 A messenger collides with the PCs and numerous papers start blowing around
 A body of an evil wizard tied to a stake, body still smoking
 A chatty bard walks alongside the party

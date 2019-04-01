@@ -28,10 +28,10 @@ flail
 [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
 [swordType#plural] inlaid with [preciousMetal]
 [swordType#plural] encrusted with [preciousStone.plural]
-[itemQuality] [swordType#plural]
-[itemQuality] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
-[itemQuality] [swordType#plural] inlaid with [preciousMetal]
-[itemQuality] [swordType#plural] encrusted with [preciousStone.plural]
+[itemCondition] [swordType#plural]
+[itemCondition] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
+[itemCondition] [swordType#plural] inlaid with [preciousMetal]
+[itemCondition] [swordType#plural] encrusted with [preciousStone.plural]
 [metal] [swordType#plural], [weaponName], [weaponEpithet]
 
 |swordType
@@ -80,10 +80,10 @@ shaft
 [metal] [knifeType#plural] inlaid with [preciousMetal]
 [metal] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
 [metal] [knifeType#plural] encrusted with [preciousStone.plural]
-[itemQuality] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
-[itemQuality] [knifeType#plural] inlaid with [preciousMetal]
-[itemQuality] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
-[itemQuality] [knifeType#plural] encrusted with [preciousStone.plural]
+[itemCondition] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
+[itemCondition] [knifeType#plural] inlaid with [preciousMetal]
+[itemCondition] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
+[itemCondition] [knifeType#plural] encrusted with [preciousStone.plural]
 [metal] [knifeType#plural] named [weaponName]
 
 |knifeType

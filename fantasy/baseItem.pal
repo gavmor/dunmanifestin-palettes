@@ -1,8 +1,7 @@
 |baseItem
 [metal] [tool]
 [metal] [weapon]
-[utensil#plural]
 [instrument#plural]
 [tool#plural]
 [weapon#plural]
-[vestment#plural]
+[garment#plural]

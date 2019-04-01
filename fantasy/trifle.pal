@@ -1,101 +1,99 @@
 |trifle
-[fabric] scrap
-single arrow tipped with [material]
-[material] statuette of [race]
-strongbox filled with [preciousStone.plural]
-rotting scrap of [meat]
-large glass jar filled with holy water
-broken [weapon/claw/tooth]
-neatly folded set of clean clothes
-[material] ring studded with [preciousStone.plural]
-document with the seal of [person]
-tattered [color] cloak
-piece of bread and cheese wrapped in cloth
-handful of [material] spheres
-small wooden cask of ale
-small [material] bound book
-blank parchment containing a hidden secret message
-large [material] container of ashes
-ceramic disc with a single rune scratched into the surface
-small [material] pouch of pipe weed
-leather pouch of dried [plant]
-[material] coin with [deity symbol] engraved on it
-[color] glass eye
-charred splinter of wood
- adventurer's [material] bound journal
- empty bottle of [beverage]
+[fabric] bandage
 [color] shirt
-[material] pair of eating utensils
-thin [material] wand
-parchment with a list of names on it
-handful of [color] chalk
-[material] key
-leather pouch of jagged ceramic shards
-roughly drawn map of the surrounding area
-tangled bundle of string
-large chunk of charcoal
-[material] flask of [beverage]
-desecrated holy symbol of [deity]
-distorted [material] painting of [race]
-glass vial of [race] blood
-thin twine with a hook
+[fabric] scrap
+shard of [hardMaterial]
 [color] candle
-pair of grimy [material] goggles
-[material] lock
-[color] twenty sided die
-[color] leather backpack
-[color] leather sword belt
-set of playing cards
-crumpled parchment with one inch grids
-ceramic tile depicting a [race]
-[material] glove/gauntlet with six fingers
+[material] key
 [material] mask
-[material] mining pick and shovel
-bag of dead [race]
+[material] bell
+[material] lock
+[material] tooth
+[color] glass eye
+[material] mirror
+vial of antitoxin
 [material] sundial
-paper fragment of an unknown spell
+bag of dead [race]
+vial of [color] dye
+wooden smoking pipe
+set of playing cards
+thin [material] wand
+rusty set of manacles
+small bundle of bones
+recipe for [race] stew
+thin twine with a hook
+large chunk of charcoal
+[material] [instrument]
+rotting scrap of [meat]
+tangled bundle of string
+charred splinter of wood
+handful of [color] chalk
+[color] twenty sided die
+small wooden cask of ale
+[color] leather backpack
+set of broken lock picks
+[color] [appearance] robe
+thin [material] razor wire
+ unadorned [material] ring
+glass vial of [race] blood
+broken [material] spyglass
+[color] leather
+length of [material] chain
+broken [weapon/claw/tooth]
+glass vial of [color] acid
+ empty bottle of [beverage]
+small [material] bound book
+pair of [material] calipers
+[material] container of oil
+[material] container of wax
+ceramic pot sealed with wax
+long, thin [material] needle
+[material] mortar and pestle
+large glowing [preciousStone]
+handful of [material] spheres
+set of [material] gaming dice
+single [material] chess piece
+[material] flask of [beverage]
+leather pouch of dried [plant]
+[material] statuette of [race]
+[material] container of [spice]
+ceramic tile depicting a [race]
+crystalline vial of [color] ink
+pair of grimy [material] goggles
+[material] pair of [tool.plural]
 belt made from the skin of [race]
+[material] mining pick and shovel
+desecrated holy symbol of [deity]
+ old, yellowed, and illegible note
+document with the seal of [person]
+neatly folded set of clean clothes
+paper fragment of an unknown spell
+large [material] container of ashes
+single arrow tipped with [material]
+small [fabric] pouch of pipe weed
+parchment with a list of names on it
+pair of [material]-rimmed spectacles
+large shard of [color] [material]
+adventurer's [material] bound journal
+[itemCondition] [hardMaterial] [container] filled with [liquidMaterial]
+large glass jar filled with holy water
+[fabric] [container] of [itemCondition] [hardMaterial] shards
+leather pouch of jagged ceramic shards
+distorted [material] painting of [race]
+single [color] [race, feathered] feather
+crooked [material] knife covered in blood
+roughly drawn map of the surrounding area
+[fabric] [container] of [itemCondition] [hardMaterial] [tool.plural]
+leather pouch of tiny [material] caltrops
+piece of bread and cheese wrapped in cloth
 [material] container that holds human teeth
 leather bundle with a [material, metal] file
-small bundle of bones
-rusty set of manacles
-[material] container of oil
-[material] tooth
-set of [material] gaming dice
-set of broken lock picks
-large glowing [preciousStone]
-pair of [material] calipers
-wooden [instrument]
-[material] mortar and pestle
-glass vial of [color] acid
-handful of rough, coarse [color] sand (and it gets everywhere)
-[material] container of wax
-pair of [material] rimmed spectacles
-length of [material] chain
-crooked [material] knife covered in blood
-single [material] chess piece
-ceramic pot sealed with wax
-large shard of [color] stained glass
-crystalline vial of [color] ink
-[material] bell
-[material] mirror
-recipe for [race] stew
-single [color] [race, feathered] feather
-small [material] tablet illustrating a fire being kindled
+strongbox filled with [preciousStone.plural]
 twelve sided [color] die with arcane symbols
-linen bandage
-shard of flint
-worn whetstone
-small hourglass filled with [color] sand
-[color] hooded robe
-leather pouch of tiny [material] caltrops
-vial of antitoxin
-[material] container of [spice]
-long, thin [material] needle
- unadorned [material] ring
-thin [material] razor wire
- old, yellowed, and illegible note
-wooden smoking pipe
+blank parchment containing a hidden secret message
+[material] coin with [deity symbol] engraved on it
+[material] ring studded with [preciousStone.plural]
 [material] container of [material, precious metal] bars
-vial of [color] dye
-broken [material] spyglass
+small [material] tablet illustrating a fire being kindled
+ceramic disc with a single rune scratched into the surface
+handful of rough, coarse [color] sand (and it gets everywhere)

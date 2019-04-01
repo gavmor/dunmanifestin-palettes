@@ -1,7 +1,12 @@
 |hardMaterial
-5@[metal]
-[preciousStone]
 bone
-pearl
 horn
 wood
+pearl
+flint
+glass
+stained glass
+ceramic
+5@[metal]
+[animal]-bone
+[preciousStone]

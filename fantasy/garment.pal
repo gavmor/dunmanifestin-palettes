@@ -1,0 +1,15 @@
+|garment
+pair of [pairedGarment.plural]
+single [pairedGarment]
+headdress
+hat
+helmet
+hat
+belt
+sword-belt
+
+|pairedGarment
+glove
+gauntlet
+sandal
+legging

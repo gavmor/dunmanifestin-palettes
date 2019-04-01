@@ -30,3 +30,20 @@ Thank yous a million for dropping these things on the internet where I could scr
 - [Ben Christel](https://github.com/benchristel)'s Nevven
 - u/JR-9615's [Mundane Items](https://www.reddit.com/r/DnD/comments/3yvy58/commonmundane_item_list_d100/)
 - [Johnn Four](https://www.roleplayingtips.com/)'s [Encounters](https://s3.amazonaws.com/RPT-eBooks/1372-fantasy-roadside-encounters.pdf)
+
+## ToDo
+
+- [ ] Respect word order:
+
+| order | relating to      | examples                              |
+|-------|------------------|---------------------------------------|
+| 1     | opinion          | unusual, lovely, beautiful            |
+| 2     | size             | big, small, tall                      |
+| 3     | physical quality | thin, rough, untidy                   |
+| 4     | shape            | round, square, rectangular            |
+| 5     | age              | young, old, youthful                  |
+| 6     | colour           | blue, red, pink                       |
+| 7     | origin           | Dutch, Japanese, Turkish              |
+| 8     | material         | metal, wood, plastic                  |
+| 9     | type             | general-purpose, four-sided, U-shaped |
+| 10    | purpose          | cleaning, hammering, cooking          |

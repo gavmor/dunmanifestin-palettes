@@ -3,9 +3,8 @@ which glows when [activated]
 made by [personName]
 made in [placeName]
 stolen by [personName], who used it to slay [personName]
-which glows in the presence of [family.possessive] children
+which [magicItemEffect] when [activated]
 whose every strike produces a shockwave
-which lights aflame when [activated]
 whose touch is a jolt of lightning
 which contains the trapped souls of its every victim
 about-which-no-sound-travels
@@ -13,11 +12,16 @@ that is half the average weight
 which turns into [weildable.article] when [activated]
 which never loses its edge
 which fights of its own accord
-which is the bane of all [race.plural]
+which is the bane of all [faction.plural]
 which cannot be moved once [activated]
-which cannot harm [race.article]
+which cannot harm [faction.article]
 which thirsts for blood and screams when wet
 which turns into [animal.article] when [activated]
 whose wielders are cursed [curse]
+
+|magicItemEffect
+glows
+lights aflame
+
 |itemName
 [name]

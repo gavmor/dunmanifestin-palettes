@@ -1,21 +1,20 @@
 |profession
 duke
 maid
-bard
-sage
 dyer
 serf
-druid
-guard
+bard
+sage
 thief
 count
-baron
+guard
 slave
 scout
 theif
 baker
 miner
-butler
+druid
+baron
 lector
 barber
 jailer
@@ -41,10 +40,10 @@ lawyer
 tanner
 hunter
 bowyer
-cultist
-diviner
+doctor
+butler
+printer
 ferrier
-furrier
 jeweler
 trapper
 scholar
@@ -61,33 +60,33 @@ general
 artisan
 painter
 soldier
-printer
+furrier
 lookout
 advisor
-arborist
-fletcher
+cultist
+diviner
+cobbler
 thatcher
-spinster
 merchant
 academic
 criminal
 sherriff
-falconer
+spinster
 herdsmen
 shepherd
 musician
-scavenger
-bartender
+fletcher
+arborist
+falconer
 carpenter
 winemaker
 constable
 alchemist
 librarian
-lumberjack
-gong-fower
+scavenger
+bartender
 shipwright
-pharmacist
-wainwright
+gong-fower
 stablehand
 town crier
 veterinary
@@ -104,55 +103,56 @@ seamstress
 prostitute
 magistrate
 head groom
-food vendor
-entertainer
-caravansary
+wainwright
+lumberjack
+pharmacist
 dock worker
-wheelwright
+food vendor
 stone mason
 philosopher
-grave digger
-guild member
-guild master
+entertainer
+caravansary
+wheelwright
 apothecarist
-lamp lighter
+guild master
 glass blower
 cartographer
 water bearer
-stable master
-chimney-sweep
-[metal] smith
+guild member
+plaguedoctor
+grave digger
+lamp lighter
 guard captain
 tax collector
 pottery mason
 [metal] miner
 tavern keeper
+stable master
+chimney-sweep
+[metal] smith
+magic merchant
 grange foreman
 street cleaner
 street sweeper
-magic merchant
 council member
 lyceum scholar
-carriage driver
-cobbler
-parchment maker
 pawn shop owner
+parchment maker
+carriage driver
 book store clerk
-menagerie keeper
 bathhouse worker
+menagerie keeper
 lyceum instructor
 candlestick maker
 courier/messenger
-coliseum gladiator
-madhouse caretaker
 hot springs worker
 monarch or emperor
 traveling merchant
 master of ceremony
 botanical gardener
 lumber mill worker
-doctor
-plaguedoctor
+coliseum gladiator
+madhouse caretaker
 orphanage caretaker
 petty nobility/mayor
 general store keeper

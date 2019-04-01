@@ -1,16 +1,26 @@
 |tool
-100@ax
-[metal] axe
-[metal] knife
-shovel
+map
+map of [regionName]
+orb
+axe
+wand
+bowl
 trawl
-plough
+spoon
 knife
+[container]
+shovel
+100@ax
 hammer
-power saw
+plough
 peg leg
-[_hook#plural] for [_hand.article#plural]
 crowbar
+parchment
+scroll
+power saw
+whetstone
+hourglass filled with [color] sand
+[_hook#plural] for [_hand.article#plural]
 
 |_hook
 hook

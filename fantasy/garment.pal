@@ -1,15 +1,36 @@
 |garment
-pair of [pairedGarment.plural]
-single [pairedGarment]
-headdress
 hat
-helmet
-hat
+gown
+blindfold
+robe
+kilt
+hose
 belt
+cape
+hood
+cowel
+tunic
+smock
+skirt
+cloak
+sarong
+tabard
+corset
+wimple
+girdle
+jacket
+helmet
+doublet
+loincloth
+headdress
+haubergeon
 sword-belt
+single [pairedGarment]
+pair of [pairedGarment.plural]
 
 |pairedGarment
 glove
 gauntlet
 sandal
 legging
+false sleeve

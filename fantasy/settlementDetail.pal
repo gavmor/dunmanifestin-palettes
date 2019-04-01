@@ -1,6 +1,12 @@
 |settlementDetail
 well-known to have an economy based on [economy]
-known for its many [buildingType.plural] and [quality] populace
-known for being the home of [person]
-known to be a once-thriving hub of [facetOfCulture]
-infamous for inhabitants who are [attitude] towards [race.plural]
+[repute] for its many [structureType.plural] and [quality] populace
+[repute] for being the home of [person]
+[repute] to be a once-thriving hub of [facetOfCulture]
+[repute] for inhabitants who are [attitude] towards [faction.plural]
+[repute] for headquartering the [organization]
+built by [organization]
+home to [organization]
+beseiged by [organization]
+whose inhabitants are cursed [curse]
+particularly blessed by [deity]

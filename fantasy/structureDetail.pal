@@ -1,8 +1,12 @@
 |structureDetail
-famous for being the target of an attack by [personName] and [group.article] of [faction.plural] with [baseItem.plural]
-famous for being the target of an attack by [person]
+[repute] for being the target of an attack by [personName] and [group.article] of [faction.plural] with [baseItem.plural]
+[repute] for being the target of an attack by [person]
+[repute] for being the target of an attack by [organization]
+[repute] for headquartering the [organization]
 rumored to hide the treasure of [personName] beneath its foundations: [uniqueItem]
 rumored to be haunted by the ghost of [person]
 said to contain many priceless artifacts made of [hardMaterial]
 said to contain many [baseItem.plural] made of [hardMaterial]
-
+built by [organization]
+home to [organization]
+beseiged by [organization]

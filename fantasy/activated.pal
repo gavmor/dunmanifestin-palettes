@@ -1,12 +1,28 @@
 |activated
+affixed to a target
+wet
+struck
+thrown
+gifted
+stolen
+it chooses to
+the stars align
+sung to
+touched
+held aloft
+in moonlight
+it tastes blood
 its name is spoken
 the switch is thrown
+the [timePeriod] passes
 [faction.plural] are near
-thrown
-it tastes blood
-held aloft
-sung to
-stolen
-gifted
-in moonlight
-touched
+[activated] before crumbling to dust
+
+|timePeriod
+minute
+quarter-hour
+30@hour
+10@day
+week
+year
+decade

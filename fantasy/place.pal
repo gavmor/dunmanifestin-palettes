@@ -1,9 +1,13 @@
 |place
 3@[settlement]
 10@[structure]
+[region]
 
 |settlement
-[placeName], [settlementType.article] built on [geologicalFormation.article] in [region] and [settlementDetail]
+[placeName], [settlementType.article] built on [geologicalFormation.article] in [regionName] [settlementDetail]
 
 |structure
-[placeName], [structureType.article] built on [geologicalFormation.article] in [region] and [structureDetail]
+[placeName], [structureType.article] built on [geologicalFormation.article] in [regionName] [structureDetail]
+
+|region
+[regionName], [regionType.article] of [geologicalFormation.plural] [regionDetail]

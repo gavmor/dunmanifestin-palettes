@@ -17,7 +17,7 @@ a degree in [facetOfCulture]
 a bunch of superstitions about [topicOfConversation]
 a conspiracy theory about [topicOfConversation]
 a bunch of inside jokes about [topicOfConversation]
-a collection of [baseItem.plural] [magicItemDescription]
+a collection of [baseItem.plural] [uniqueItemDescription]
 a speech impediment
 a case of [animal] [disease]
 [race.article] [disease]
@@ -41,7 +41,7 @@ a reason to run away from [person]
 a desire to be left alone
 a need to take a life
 a search for their birthright, [uniqueItem]
-an obligation to return [weildable.article] to [person]
+an obligation to return [thing] to [person]
 a determined love for [person]
 a quest to gather materials to build [uniqueItem]
 no particular agenda

@@ -47,3 +47,9 @@ Thank yous a million for dropping these things on the internet where I could scr
 | 8     | material         | metal, wood, plastic                  |
 | 9     | type             | general-purpose, four-sided, U-shaped |
 | 10    | purpose          | cleaning, hammering, cooking          |
+
+## Tips
+The following command displays swatches by frequency.
+```
+grep -roh -P "\[(.*?)[\.\]]" . | sort | uniq -c | sort -n
+```

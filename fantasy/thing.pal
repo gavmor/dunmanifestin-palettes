@@ -10,5 +10,4 @@
 [itemCondition] [jewelry] of [hardMaterial]
 
 |uniqueItem
-[itemName], [baseItem.article] [magicItemDescription]
-the throne of [region]
+[itemName], [baseItem.article] [uniqueItemDescription]

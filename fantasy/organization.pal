@@ -1,6 +1,190 @@
 // Thanks to http://dndspeak.com/2018/02/100-factions/
+|orgType
+club
+band
+watch
+army
+tribe
+conclave
+society
+legion
+cult
+horde
+order
+fraternal order
+
+|orgName
+[material] [faction]
+[faction.plural] of [placeName]
+[condition] [profession.plural]
+[condition] [profession.possessive] [orgType]
+[condition] [bodyPart.plural]
+[condition]
+un[condition]
+[color] [profession.plural]
+[profession.plural]
+[attitude] [orgType]
+[orgType] for the [abstraction] of [abstraction]
+[orgType] of the [bodyPart]less
+[orgType] of the [condition] [bodyPart]
+[color] [animal.plural]
+[orgType] of the [orgName]
+[color] [structureType]
+
+|null
+The Old Lord’s Watch
+The Wayfarers
+Compassion Conclave
+My Eyes are Down Here
+The Unchained
+Society for the Protection of Nature
+RSPD
+The Legion of the Faceless
+The Cult of the Clear-Eyed Mind
+The Jötunn Valkyries
+The Banner of Pine Needles
+The Glürgil Tinkerocracy
+Lords of the Gyre Mountains
+The Scale
+Morg Trigal
+The Ivory Jacks
+The Nobles of Naught
+The Sirens
+Council of the Eight Tipped Star
+The Knights of the Arsenal
+The Deep Corsairs
+The Order of St. Davûm
+The Fraternal Order of the Azure Quill
+The Order of the Archive
+The Gabbo Initiative
+The Council of Gears
+The Hollow Moon Pack
+Crone Rock Watch
+The Magistari
+The Silver Woodsmen
+The 50’s
+The Order of The White Stag
+The Last Arc
+Fragmented Truth
+Angelic Fighters
+Glory’s Treasure
+Altered Magic
+Librarians of The Kingdom
+Shady Ladies
+Black Bards
+Huntsmen of Grim-Lock
+The Gaia Chain
+The Razing Horde
+The Capellbairn of Craghoof
+The Witchgamut
+The Praxus Inquisitors
+Infiltration Unit 42
+Flumphs for a Peaceful Future
+The Green Order
+The Unalloyed
+Order of the Black Sun
+Dragão azul (Order of the Blue Dragon)
+The Glacial Stream
+Syndicates
+Owlbear Team Nine
+The NewWorlders
+The Knights of Pi
+The Scarlet Troupe
+Knights of Levistus
+The Sixth House
+The Circus of Smiles
+The Curators
+The Nighthawks
+The Golden Legacy
+The Church of the Great Eye
+The Faith of the Lazer Eye
+Anonymouse
+Tiamat’s Teeth
+The Oak Defenders
+The Stone Hewers
+The Tonabi
+The Yarn Pride
+The Sel’drow Heretics
+The Piruaga
+The Tokupi
+The Red Thrush
+The Ainmhithe Triads
+Daughters of the Nymph
+The Paper Court
+The Fold
+The Order of Balance
+Multiverse Intervention Block
+The Wee Green Men
+Madam Maga’s Travelling Brothel
+The Rosehills
+Cade’s Foundation
+The Dammed
+The Goblin Crown
+The Ancient Golden Dwarves
+The Clockwork Gnomes
+The Kingdom of the Blood Oak
+Eyes of the Serpent
+The Emerald Kingdom of Zô
+Siggi’s Marauders
+The H’radrome Empire
+Order of the Shadow Lotus
+The Red Kings
+House of Bjernson
+The Halls of the Dead
+The Titan Provincial Government
+
+|orgMission
+[missionMotive] to [missionVerb] [economy]
+[missionMotive] to [missionVerb] [uniqueItem]
+[missionMotive] to [missionVerb] [place]
+[missionMotive] to [missionVerb] [person]
+[missionMotive] to [missionVerb] those who are [attitude]
+[missionMotive] to [missionVerb] [faction.plural]
+[missionMotive] to [missionVerb] the [geologicalFormation.plural] of [region]
+[repute] for their [commonItem]
+[repute] for their [attitude] attitudes
+cursed [curse]
+
+|missionMotive
+sworn
+cursed
+paid
+born
+working
+joining together
+enslaved
+tasked
+
+|missionVerb
+facilitate
+protect
+find
+destroy
+remake
+promote
+pilot
+wander
+capture
+loot
 
 |organization
+The [orgName.titleize], [orgType.article] of [personCondition] [faction.plural] [orgMission]
+The [orgName.titleize], [orgType.article] of [faction.plural], [faction.plural], and [faction.plural] [orgMission]
+
+|orgBio
+[organization]. [orgDetail]. [orgDetail].
+
+|orgDetail
+Though disguised as [personCondition] [faction.plural], they haven’t forgotten their training
+They are [attitude] towards [faction.plural]
+They want [desire], and fear [fear]
+They want [desire], or [desire], or both
+They fear [fear] and are [attitude] toward the party
+They want [desire], and are [attitude] toward the party
+Their leader is [faction.article] [faction]
+They make their base in [place]
+
+|null
 The Old Lord’s Watch, a group of retired combatants that protect a small village from evil threats. They put up the disguise of an old man/woman, but they haven’t forgotten their training.
 The Wayfarers, a band of pirates who pilot the seas off Waterdeep. They offer peace with pirates who run the Wayfarer flag. The High Wayfarer is an illithid pirate.
 Compassion Conclave, a conclave of Lawful Good Warlocks who work to promote being kind, helping others.

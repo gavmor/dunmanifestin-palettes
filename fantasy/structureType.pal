@@ -1,4 +1,14 @@
 |structureType
+wall
+temple
+church
+mausoleum
+catacomb
+dungeon
+tower
+mine
+hovel
+garden
 park
 mint
 tomb
@@ -8,8 +18,8 @@ forge
 harbor
 bridge
 palace
-shrine
-temple
+shrine to [deity]
+temple of [deity]
 castle
 museum
 massive tree

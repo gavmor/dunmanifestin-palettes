@@ -1,0 +1,8 @@
+|regionType
+province
+state
+island
+region
+country
+land
+sovereign [regionType]

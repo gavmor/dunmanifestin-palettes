@@ -1,0 +1,57 @@
+|magicItemEffect
+sings
+glows
+lights aflame
+sustains perpetual motion
+cannot be moved
+freezes nearby water
+petrifies its victims
+points the way to the nearest [faction]
+points the way to the nearest [structureType]
+points the way to the nearest [geologicalFormation]
+summons [itemCondition.article] [structureType]
+summons [itemCondition.article] [geologicalFormation]
+curses its target [curse]
+can unlock any door
+appears to be a harmless [baseItem]
+grants its wearer
+seals shut doors to which its affixed
+makes ones eyeballs safely pop out as spies
+gives one a magnificent beard and mustache
+allows you to float safely downwards
+makes one invisible
+turns into any type of dress
+preserves anything kept inside
+exchanges one mundane [baseItem] for another
+changes one's biological sex
+cleans one's clothes, perfumes one's skin, and styles one's hair
+makes a permanent mark on any surface
+makes its bearer appear dead and rotten
+erupts into dozens of [baseItem.plural]
+produces [material]
+curses one [curse]
+turns into [thing]
+mutes nearby sound
+causes unsecured coins to leap up and roll to one
+produces a shockwave
+enlarges one
+sprouts strong, walking legs
+never loses its edge
+always hits its target
+shrouds one in shadows
+shields one with light
+half the average weight
+fights of its own accord
+protects one from [element]
+turns into [color.article] [animal]
+returns to your pocket
+reveals invisible creatures
+grants one [personAttribute]
+produces a jolt of [element]
+thirsts for blood and screams
+cannot harm [faction.article]
+summons [element.article] elemental
+is the bane of all [faction.plural]
+causes nearby plants to bloom and grow
+holds the trapped souls of its every victim
+bears the soul of [person], and speaks telepathically

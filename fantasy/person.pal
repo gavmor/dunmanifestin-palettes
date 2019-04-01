@@ -10,6 +10,6 @@ Ze wants [desire], and is [attitude] toward the party.
 Ze fears [fear], and is [attitude] toward the party.
 
 |person
-[personName], [qualityWithAdverb.article] [faction]
-[personName], [quality.article] [faction]
-3@[personName], [appearance.article], [personality] [faction]
+[personName], [adverb.article] [personCondition] [faction]
+[personName], [personCondition.article] [faction]
+3@[personName], [personCondition.article], [personCondition] [faction]

@@ -3,3 +3,5 @@
 3@[profession]
 [race] [profession]
 [family.possessive] child
+[orgName.titleize] member
+worshiper of [deity.titleize]

@@ -1,0 +1,20 @@
+|uniqueItemDescription
+[uniqueItemDescription] and [uniqueItemDescription]
+made in [placeName] by [personName]
+gifted to [personName] by [personName]
+stolen by [personName], who used it [verbDesire]
+30@which [magicItemEffect] when [activated]
+5@which [magicItemEffect]
+
+
+|personAttribute
+strength
+dexterity
+wisdom
+intelligence
+charisma
+constitution
+
+
+|itemName
+[name]

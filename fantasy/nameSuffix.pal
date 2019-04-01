@@ -1,6 +1,5 @@
 |nameSuffix
-hand
-eye
+[bodyPart]
 swift
 bury
 eld
@@ -8,7 +7,6 @@ red
 wald
 dar
 den
-foot
 ton
 don
 son

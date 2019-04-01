@@ -1,7 +1,7 @@
 |race
 [race]-[race] hybrid
 100@[humanoid]
-100@[monster]
+10@[monster]
 
 |humanoid
 5@human

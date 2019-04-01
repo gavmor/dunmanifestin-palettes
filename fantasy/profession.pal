@@ -9,7 +9,9 @@ thief
 count
 guard
 slave
+pirate
 scout
+warlock
 theif
 baker
 miner
@@ -50,7 +52,7 @@ scholar
 armorer
 mudlark
 warrior
-grocers
+grocer
 gambler
 bailiff
 midwife
@@ -144,9 +146,11 @@ bathhouse worker
 menagerie keeper
 lyceum instructor
 candlestick maker
-courier/messenger
+courier
+messenger
 hot springs worker
-monarch or emperor
+monarch
+emperor
 traveling merchant
 master of ceremony
 botanical gardener
@@ -154,7 +158,8 @@ lumber mill worker
 coliseum gladiator
 madhouse caretaker
 orphanage caretaker
-petty nobility/mayor
+petty noble
+mayor
 general store keeper
 smoke shop tobacconist
 fighting pit ringmaster

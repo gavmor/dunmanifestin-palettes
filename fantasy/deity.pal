@@ -1,12 +1,18 @@
 |deity
-[name], [title] of [domain], [domain], and [domain]
-the [domain]-[title]
+[name], [title] of [domain]
+[name] the [domain]-[title]
 
 |title
 lord
 lady
 god
 goddess
+protector
+destroyer
+mother
+father
+maker
+giver
 
 |domain
 10@[facetOfCulture]
@@ -20,7 +26,6 @@ gemcutting
 death
 darkness
 murder
-the underworld
 sun
 light
 strength

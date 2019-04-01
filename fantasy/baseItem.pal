@@ -1,6 +1,6 @@
 |baseItem
-[metal] [tool]
-[metal] [weapon]
+[tool]
+[weapon]
 [instrument#plural]
 [tool#plural]
 [weapon#plural]

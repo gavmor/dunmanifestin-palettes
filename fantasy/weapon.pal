@@ -59,9 +59,9 @@ repeating crossbow
 poison [arrowType#plural]
 barbed [arrowType#plural]
 2@[arrowType#plural] with [arrowShaftType.article#plural] of [hardMaterial]
-[basicColor]-flighted [arrowType#plural]
-[basicColor]-fletched [arrowType#plural]
-[basicColor]-feathered [arrowType#plural]
+[color]-flighted [arrowType#plural]
+[color]-fletched [arrowType#plural]
+[color]-feathered [arrowType#plural]
 [arrowType#plural] fletched with [bird] feathers
 
 |arrowType

@@ -1,7 +1,0 @@
-|artefact
-[itemName], the [baseItem] [magicItemDescription]
-
-|weildable
-100@[itemCondition] [baseItem]
-[artefact]
-[minorMagicItem]

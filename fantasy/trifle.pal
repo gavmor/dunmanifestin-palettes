@@ -34,7 +34,7 @@ small wooden cask of ale
 set of broken lock picks
 [color] [appearance] robe
 thin [material] razor wire
- unadorned [material] ring
+unadorned, [material] ring
 glass vial of [race] blood
 broken [material] spyglass
 [color] leather
@@ -75,9 +75,9 @@ parchment with a list of names on it
 pair of [material]-rimmed spectacles
 large shard of [color] [material]
 adventurer's [material] bound journal
-[itemCondition] [hardMaterial] [container] filled with [liquidMaterial]
+[itemCondition], [hardMaterial] [container] filled with [liquidMaterial]
 large glass jar filled with holy water
-[fabric] [container] of [itemCondition] [hardMaterial] shards
+[fabric] [container] of [itemCondition], [hardMaterial] shards
 leather pouch of jagged ceramic shards
 distorted [material] painting of [race]
 single [color] [race, feathered] feather
@@ -91,9 +91,10 @@ leather bundle with a [material, metal] file
 strongbox filled with [preciousStone.plural]
 twelve sided [color] die with arcane symbols
 blank parchment containing a hidden secret message
-[material] coin with [deity symbol] engraved on it
+[material] coin with [deity]'s symbol engraved on it
 [material] ring studded with [preciousStone.plural]
 [material] container of [material, precious metal] bars
 small [material] tablet illustrating a fire being kindled
+[hardMaterial] disc with a single rune scratched into the surface
 ceramic disc with a single rune scratched into the surface
 handful of rough, coarse [color] sand (and it gets everywhere)

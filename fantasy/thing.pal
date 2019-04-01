@@ -1,5 +1,14 @@
 |thing
-[wearable]
-[weildable]
-[weapon]
+[uniqueItem]
+100@[commonItem.article]
+
+|commonItem
 [trifle]
+[minorMagicItem]
+[itemCondition], [color], [material] [baseItem]
+[itemCondition] [garment] of [color] [fabric]
+[itemCondition] [jewelry] of [hardMaterial]
+
+|uniqueItem
+[itemName], [baseItem.article] [magicItemDescription]
+the throne of [region]

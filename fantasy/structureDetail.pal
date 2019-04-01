@@ -1,7 +1,7 @@
 |structureDetail
 famous for being the target of an attack by [personName] and [group.article] of [faction.plural] with [baseItem.plural]
 famous for being the target of an attack by [person]
-rumored to hide the treasure of [personName] beneath its foundations: [artefact]
+rumored to hide the treasure of [personName] beneath its foundations: [uniqueItem]
 rumored to be haunted by the ghost of [person]
 said to contain many priceless artifacts made of [hardMaterial]
 said to contain many [baseItem.plural] made of [hardMaterial]

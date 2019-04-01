@@ -23,7 +23,7 @@ a case of [animal] [disease]
 [race.article] [disease]
 a large entourage of [race.plural]
 [container.article] of [baseItem.plural]
-a price set on his/her head by [person]
+a price set on zir head by [person]
 a vendetta against [person]
 2@[disability.article] [animal]
 
@@ -35,15 +35,15 @@ a hatred of [facetOfCulture]
 |motivation
 a desire for a fight with [person]
 a desire for honest work
-a need to steal [artefact]
+a need to steal [uniqueItem]
 a reason to run away from something
 a reason to run away from [person]
 a desire to be left alone
 a need to take a life
-a search for their birthright, [artefact]
+a search for their birthright, [uniqueItem]
 an obligation to return [weildable.article] to [person]
 a determined love for [person]
-a quest to gather materials to build [artefact]
+a quest to gather materials to build [uniqueItem]
 no particular agenda
 a desire for corruption and domination
 a desire for domination and plunder

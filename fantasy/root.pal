@@ -1,11 +1,6 @@
 |root
 [personBio]
-[placeBio]
-[thingBio]
-[plotHook]
-
-|placeBio
 [place]
-
-|thingBio
 [thing]
+[plotHook]
+[organization]

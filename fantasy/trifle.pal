@@ -2,12 +2,12 @@
 [fabric] scrap
 single arrow tipped with [material]
 [material] statuette of [race]
-strongbox filled with [gems]
+strongbox filled with [preciousStone.plural]
 rotting scrap of [meat]
 large glass jar filled with holy water
 broken [weapon/claw/tooth]
 neatly folded set of clean clothes
-[material] ring with [gem]
+[material] ring studded with [preciousStone.plural]
 document with the seal of [person]
 tattered [color] cloak
 piece of bread and cheese wrapped in cloth
@@ -63,7 +63,7 @@ rusty set of manacles
 [material] tooth
 set of [material] gaming dice
 set of broken lock picks
-large glowing gemstone
+large glowing [preciousStone]
 pair of [material] calipers
 wooden [instrument]
 [material] mortar and pestle

@@ -1,13 +1,13 @@
 |thing
 [uniqueItem]
-100@[commonItem.article]
+10@[commonItem.article]
 
 |commonItem
 [trifle]
 [minorMagicItem]
-[itemCondition], [color], [material] [baseItem]
-[itemCondition] [garment] of [color] [fabric]
-[itemCondition] [jewelry] of [hardMaterial]
+100@[itemCondition], [color], [material] [baseItem]
+100@[itemCondition] [garment] of [color] [fabric]
+100@[itemCondition] [jewelry] of [hardMaterial]
 
 |uniqueItem
 [itemName], [baseItem.article] [uniqueItemDescription]

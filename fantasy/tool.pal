@@ -1,6 +1,6 @@
 |tool
 map
-map of [regionName]
+map of [placeName]
 orb
 axe
 wand
@@ -20,6 +20,7 @@ parchment
 scroll
 power saw
 whetstone
+manacle
 hourglass filled with [color] sand
 [_hook#plural] for [_hand.article#plural]
 

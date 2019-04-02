@@ -1,16 +1,26 @@
 |geologicalFormation
-outcropping
-beach
-mountain
+underground [geologicalFormation]
+floating [geologicalFormation]
+10@[bodyOfWater]
 cliff
-canyon
-land bridge
-isthmus
-peninsula
-river bend
-canyon
-bog
+beach
 island
-pool
+forest
+canyon
+isthmus
+mountain
+peninsula
+land bridge
+outcropping
+
+|bodyOfWater
+river bend
+river
 sea
+bog
+pool
+pond
+lake
 ocean
+swamp
+marsh

@@ -4,10 +4,10 @@
 [region]
 
 |settlement
-[placeName], [settlementType.article] built on [geologicalFormation.article] in [regionName] [settlementDetail]
+[placeName], [settlementType.article] on [geologicalFormation.article] in [placeName] [settlementDetail]
 
 |structure
-[placeName], [structureType.article] built on [geologicalFormation.article] in [regionName] [structureDetail]
+[placeName], [structureType.article] on [geologicalFormation.article] in [placeName] [structureDetail]
 
 |region
-[regionName], [regionType.article] of [geologicalFormation.plural] [regionDetail]
+[placeName], [regionType.article] of [geologicalFormation.plural] [regionDetail]

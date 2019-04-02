@@ -1,7 +1,7 @@
 |namePrefix
-[animal]
-[element]
-[color]
+[animal.titleize]
+[element.titleize]
+[color.titleize]
 Arrow
 Bats
 Black

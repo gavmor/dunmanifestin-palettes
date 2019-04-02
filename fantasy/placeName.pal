@@ -1,4 +1,5 @@
 |placeName
 [namePrefix][placeSuffix]
 [word][placeSuffix]
-
+[word]
+[word]-[word]

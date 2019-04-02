@@ -1,167 +1,167 @@
 |profession
-duke
-maid
-dyer
-serf
-bard
-sage
-thief
-count
-guard
-slave
-pirate
-scout
-warlock
-theif
+2@[metal] miner
+[metal]smith
+10@alchemist
+10@armorer
+10@cultist
+10@guard
+10@knight
+10@pirate
+10@warlock
+2@bathhouse worker
+2@hunter
+2@oracle
+20@bard
+20@cleric
+20@druid
+5@apothecarist
+5@banker
+5@botanical gardener
+5@coliseum gladiator
+5@criminal
+5@diviner
+5@general
+5@guard captain
+5@miner
+5@sailor
+5@scholar
+5@soldier
+5@squire
+5@tavern keeper
+academic
+adventurer
+advisor
+arborist
+artisan
+bailiff
 baker
-miner
-druid
-baron
-lector
 barber
-jailer
-ranger
+baron
+bartender
+beggar
+book store clerk
+bowyer
 brewer
-sailor
-squire
-cleric
+butcher
+butler
+candlestick maker
+caravansary
+carpenter
+carriage driver
+cartographer
+chimney-sweep
+clay mason
+cobbler
+constable
 cooper
-tailor
-scribe
+council member
+count
+courier
+dock worker
+doctor
+duke
+dyer
+emperor
+entertainer
+falconer
+farmer
+ferrier
+fighting pit ringmaster
+fishmonger
+fletcher
+florist
+food vendor
+furrier
+gambler
+general store keeper
+glass blower
+gong-fower
+grange foreman
+grave digger
+grocer
+guild master
+guild member
+head groom
+herdsmen
+hot springs worker
+inn keeper
+jailer
+jeweler
+lamp lighter
+lawyer
+leader of [profession.article] caravan
+lector
+librarian
+lookout
+lumber mill worker
+lumberjack
+lyceum instructor
+lyceum scholar
+madhouse caretaker
+magic merchant
+magistrate
+maid
+master of ceremony
+mayor
+menagerie keeper
+merchant
+messenger
+midwife
+millwright
+monarch
+mudlark
+musician
+orphanage caretaker
+painter
+parchment maker
+pawn shop owner
+petty noble
+pharmacist
+philosopher
+plaguedoctor
+pottery mason
 priest
-slaver
-knight
-oracle
+printer
+prospector
+prostitute
+ranger
 ratter
 roofer
-banker
-beggar
-washer
-farmer
-lawyer
-tanner
-hunter
-bowyer
-doctor
-butler
-printer
-ferrier
-jeweler
-trapper
-scholar
-armorer
-mudlark
-warrior
-grocer
-gambler
-bailiff
-midwife
-florist
-butcher
-general
-artisan
-painter
-soldier
-furrier
-lookout
-advisor
-cultist
-diviner
-cobbler
-thatcher
-merchant
-academic
-criminal
-sherriff
-spinster
-herdsmen
-shepherd
-musician
-fletcher
-arborist
-falconer
-carpenter
-winemaker
-constable
-alchemist
-librarian
-scavenger
-bartender
-shipwright
-gong-fower
-stablehand
-town crier
-veterinary
-inn keeper
-prospector
-sail maker
 rope maker
-millwright
-adventurer
-clay mason
-soap maker
-fishmonger
+sage
+sail maker
+scavenger
+scout
+scribe
 seamstress
-prostitute
-magistrate
-head groom
-wainwright
-lumberjack
-pharmacist
-dock worker
-food vendor
-stone mason
-philosopher
-entertainer
-caravansary
-wheelwright
-apothecarist
-guild master
-glass blower
-cartographer
-water bearer
-guild member
-plaguedoctor
-grave digger
-lamp lighter
-guard captain
-tax collector
-pottery mason
-[metal] miner
-tavern keeper
+serf
+shepherd
+sherriff
+shipwright
+slave
+slaver
+smoke shop tobacconist
+soap maker
+spinster
 stable master
-chimney-sweep
-[metal] smith
-magic merchant
-grange foreman
+stablehand
+stone mason
 street cleaner
 street sweeper
-council member
-lyceum scholar
-pawn shop owner
-parchment maker
-carriage driver
-book store clerk
-bathhouse worker
-menagerie keeper
-lyceum instructor
-candlestick maker
-courier
-messenger
-hot springs worker
-monarch
-emperor
-traveling merchant
-master of ceremony
-botanical gardener
-lumber mill worker
-coliseum gladiator
-madhouse caretaker
-orphanage caretaker
-petty noble
-mayor
-general store keeper
-smoke shop tobacconist
-fighting pit ringmaster
+tailor
+tanner
+tax collector
 teleportation circle steward
-leader of [profession.article] caravan
+thatcher
+theif
+thief
+town crier
+trapper
+traveling merchant
+veterinary
+wainwright
+warrior
+washer
+water bearer
+wheelwright
+winemaker

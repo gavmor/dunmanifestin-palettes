@@ -1384,7 +1384,7 @@ A local hedge wizard does indeed have a series of hedges and gardens surrounding
 Pitfalls, snares, metal teeth and other such traps lie dangerously close to the road. A careless hunter, or bandits staging an ambush?
 A hunter, guide or druid tells the party someone important (such as a noble or prominent businessman) has a small keep in the area. The important someone values their privacy, and does not take kindly to strangers appearing without a good reason.
 The party encounters a [personCondition] woman in a bright red cloak. She is carrying a basket and claims to be heading off to see her grandmother.
-A child has fallen in the river and is struggling to stay afloat. A parent or older sibling is attempting to throw them a rope, but the child is too panicked to grasp it.
+[faction.article] has fallen in the [bodyOfWater] and is struggling to stay afloat. A parent or older sibling is attempting to throw them a rope, but ze is too [personCondition] to grasp it.
 The party encounters a brawl between a group of hill giants and a group of forest giants, who each accuse the other of trespassing into their respective territory.
 Squirrels, monkeys, or other animals taunt the party.
 A terrified animal driver tries to tend to his obviously sick animals. They have eaten a variety of poisonous weed, and will need to drink a large quantity of water to flush the toxins out of their systems.
@@ -1465,7 +1465,7 @@ Local youths are playing a game of chance with each other. The loser must stay o
 A battered, disheveled man staggers towards the party, claiming bandits robbed him of his money and goods before dumping him out here in the forest. His breath smells strongly of alcohol.
 An elderly woman nags her adult son, a lumberjack, while he attempts to go about his duties. The matter she is nagging him about is one that could have easily waited until after he got home to discuss, but to her it is important enough to not only embarrass him in public but also put herself in danger of the falling trees. When the foreman of the crew attempts to remove her from the scene, she responds violently.
 Odd humanoids wearing brightly-colored clothing and holding banners that read "Save The Orcs!" have moved between a group of orcs and a group of rangers. The humanoids fail to realize this particular band of orcs has declared war on most other groups of humanoids, and so are horrified when the inevitable happens. The rangers are too few in number to shield the humanoids *and* fight off the orcs, and so both groups will perish if the party does not intervene.
-Someone - be it a bandit king, a warlord, a wealthy merchant, a corrupt cleric, or even a deranged madman - has declared this portion of the forest to be his kingdom. He demands all who travel through it pay him a toll and join his forces. It would be bad enough if he was alone, but he actually has followers.
+[person] has declared this portion of the [geologicalFormation] to be zir kingdom. Ze demands all who travel through it pay zir a toll and join zir forces. It would be bad enough if ze was alone, but ze actually has followers: [organization]
 The party encounters a monument to a tremendous battle that took place in this part of the forest. The monument is well-kept, and there is evidence that people were recently present to see it.
 An axe is wedged into a tree. Although it looks like a careless or impatient lumberjack left it there at the end of the day, closer examination will reveal it was thrown with great force, and so is now embedded in the trunk.
 As night falls, the party spots what appears to be an abandoned hunting lodge or minor noble's keep in the distance. Although the facility appears to be inviting, a closer look will reveal that the "stone" gargoyles lining the rooftops are beginning to move....
@@ -1661,11 +1661,11 @@ An authoritarian female figure requires the services of the PCs to make her husb
 A clerk decides for some perceived slight that he just won’t give the PCs the help they need. Attempts to remedy the situation make it worse.
 There is but one accepted religion in town. What about the party cleric who serves what is here deemed a false god?
 Young lovers have taken the PCs’ room as refuge to meet in. They are sought after by families that do not approve.
-A rider storms down the crowded main road of the town, expecting everyone to dive out of the way or be crushed.
+[faction.article] rider storms down the crowded main road of the town, expecting everyone to dive out of the way or be crushed.
 A lynch mob forms in the tavern where the PCs are. To join or to risk their drunken wrath?
 A lonely religious type starts trailing the PCs, shouting they are the harbingers of imminent doom, which is annoying and prevents trading. Most deem him harmless and he is a local, whereas the PCs are anything but.
 A game of chance in the market goes wrong for the PCs; it may be crooked or simply the source of a brawl.
-A damsel in distress is pinned under a fallen wagon. A strong PC can save her, but doing so comes with strings attached.
+[faction.article] in distress is pinned under a fallen wagon. A strong pers can save zir, but doing so comes with strings attached.
 A group of cornered thieves have taken hostages and threaten to kill them unless given free passage. The Law turns to PCs for assistance.
 A person the PCs are interacting with suddenly dies on them, whether of blade, crossbow bolt or poison, leaving the party with but partial information and a corpse to explain.
 There’s an execution to be made in town. The PCs are given a well-paid offer to keep peace during the execution, partly as they are suspected of trying to break the prisoner out.
@@ -2372,8 +2372,9 @@ Weary knight is mobbed by adoring children
 Partial eclipse of the sun
 Emaciated children tug at party sleeves
 People cheer for the party
-A strong, young, healthy beggar asks for coin
-A politician on a box of soap during a speech makes eye contact with a PC
+[person] asks for coin
+[person] politician on a box of soap during a speech makes eye contact with a PC
+[animal.article] is stuck in a tree and mewls at the PCs
 A cat is stuck in a tree and mewls at the PCs
 An escaped pet rodent rolling around the street in its ball bumps up against a PC's leg
 A religious leader and his incense burning retinue cuts across the PCs' path

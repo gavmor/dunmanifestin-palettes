@@ -1,8 +1,8 @@
 |weapon
-5@[sword#plural]
-2@[bow#plural]
-[bow#plural] and [arrow.plural]
-2@[knife#plural]
+5@[sword]
+2@[bow]
+[bow] and [arrow]
+2@[knife]
 axe
 club
 bow
@@ -20,19 +20,19 @@ claw
 flail
 
 |sword
-[metal] [swordType#plural]
-[metal] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
-[metal] [swordType#plural] inlaid with [preciousMetal]
-[metal] [swordType#plural] encrusted with [preciousStone.plural]
-[swordType#plural]
-[swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
-[swordType#plural] inlaid with [preciousMetal]
-[swordType#plural] encrusted with [preciousStone.plural]
-[itemCondition] [swordType#plural]
-[itemCondition] [swordType#plural] with [_hilt.article#plural] made of [hardMaterial]
-[itemCondition] [swordType#plural] inlaid with [preciousMetal]
-[itemCondition] [swordType#plural] encrusted with [preciousStone.plural]
-[metal] [swordType#plural], [weaponName], [weaponEpithet]
+[metal] [swordType]
+[metal] [swordType] with [_hilt.article] made of [hardMaterial]
+[metal] [swordType] inlaid with [preciousMetal]
+[metal] [swordType] encrusted with [preciousStone]
+[swordType]
+[swordType] with [_hilt.article] made of [hardMaterial]
+[swordType] inlaid with [preciousMetal]
+[swordType] encrusted with [preciousStone]
+[itemCondition] [swordType]
+[itemCondition] [swordType] with [_hilt.article] made of [hardMaterial]
+[itemCondition] [swordType] inlaid with [preciousMetal]
+[itemCondition] [swordType] encrusted with [preciousStone]
+[metal] [swordType], [weaponName], [weaponEpithet]
 
 |swordType
 20@sword
@@ -54,15 +54,15 @@ compound bow
 repeating crossbow
 
 |arrow
-2@[hardMaterial]-tipped [arrowType#plural]
-2@[hardMaterial] [arrowType#plural]
-poison [arrowType#plural]
-barbed [arrowType#plural]
-2@[arrowType#plural] with [arrowShaftType.article#plural] of [hardMaterial]
-[color]-flighted [arrowType#plural]
-[color]-fletched [arrowType#plural]
-[color]-feathered [arrowType#plural]
-[arrowType#plural] fletched with [bird] feathers
+2@[hardMaterial]-tipped [arrowType]
+2@[hardMaterial] [arrowType]
+poison [arrowType]
+barbed [arrowType]
+2@[arrowType] with [arrowShaftType.article] of [hardMaterial]
+[color]-flighted [arrowType]
+[color]-fletched [arrowType]
+[color]-feathered [arrowType]
+[arrowType] fletched with [bird] feathers
 
 |arrowType
 arrow
@@ -72,19 +72,19 @@ bolt
 shaft
 
 |knife
-[knifeType#plural] with [_handle.article#plural] of [hardMaterial]
-[knifeType#plural] inlaid with [preciousMetal]
-[knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
-[knifeType#plural] encrusted with [preciousStone.plural]
-[metal] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
-[metal] [knifeType#plural] inlaid with [preciousMetal]
-[metal] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
-[metal] [knifeType#plural] encrusted with [preciousStone.plural]
-[itemCondition] [knifeType#plural] with [_handle.article#plural] of [hardMaterial]
-[itemCondition] [knifeType#plural] inlaid with [preciousMetal]
-[itemCondition] [knifeType#plural] with [preciousStone.article#plural] on the [_handle#plural]
-[itemCondition] [knifeType#plural] encrusted with [preciousStone.plural]
-[metal] [knifeType#plural] named [weaponName]
+[knifeType] with [_handle.article] of [hardMaterial]
+[knifeType] inlaid with [preciousMetal]
+[knifeType] with [preciousStone.article] on the [_handle]
+[knifeType] encrusted with [preciousStone]
+[metal] [knifeType] with [_handle.article] of [hardMaterial]
+[metal] [knifeType] inlaid with [preciousMetal]
+[metal] [knifeType] with [preciousStone.article] on the [_handle]
+[metal] [knifeType] encrusted with [preciousStone]
+[itemCondition] [knifeType] with [_handle.article] of [hardMaterial]
+[itemCondition] [knifeType] inlaid with [preciousMetal]
+[itemCondition] [knifeType] with [preciousStone.article] on the [_handle]
+[itemCondition] [knifeType] encrusted with [preciousStone]
+[metal] [knifeType] named [weaponName]
 
 |knifeType
 5@knife

@@ -14,7 +14,7 @@ summons [itemCondition.article] [structureType]
 summons [itemCondition.article] [geologicalFormation]
 curses its target [curse]
 can unlock any door
-appears to be a harmless [baseItem]
+appears to be a harmless [commonItem]
 grants its wearer
 seals shut doors to which its affixed
 makes ones eyeballs safely pop out as spies
@@ -23,12 +23,12 @@ allows you to float safely downwards
 makes one invisible
 turns into any type of dress
 preserves anything kept inside
-exchanges one mundane [baseItem] for another
+exchanges one mundane [commonItem] for another
 changes one's biological sex
 cleans one's clothes, perfumes one's skin, and styles one's hair
 makes a permanent mark on any surface
 makes its bearer appear dead and rotten
-erupts into dozens of [baseItem.plural]
+erupts into dozens of [commonItem.plural]
 produces [material]
 curses one [curse]
 turns into [thing]

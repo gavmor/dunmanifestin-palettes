@@ -4,26 +4,26 @@
 [fabric] scrap
 shard of [hardMaterial]
 [color] candle
-[material] key
-[material] mask
-[material] bell
-[material] lock
-[material] tooth
+[hardMaterial] key
+[hardMaterial] mask
+[hardMaterial] bell
+[hardMaterial] lock
+[hardMaterial] tooth
 [color] glass eye
-[material] mirror
+[hardMaterial] mirror
 vial of antitoxin
-[material] sundial
+[hardMaterial] sundial
 bag of dead [race]
 vial of [color] dye
 wooden smoking pipe
 set of playing cards
-thin [material] wand
+thin [hardMaterial] wand
 set of manacles
 bundle of bones
 recipe for [race] stew
 thin-twine-with-a-hook
 large chunk of charcoal
-[material] [instrument]
+[hardMaterial] [instrument]
 rotting scrap of [meat]
 tangled bundle of string
 charred splinter of wood
@@ -32,68 +32,68 @@ handful of [color] chalk
 small wooden cask of ale
 [color] leather backpack
 set of broken lock picks
-thin [material] razor wire
-unadorned, [material] ring
+thin [hardMaterial] razor wire
+unadorned, [hardMaterial] ring
 glass vial of [race] blood
-broken [material] spyglass
+broken [hardMaterial] spyglass
 [color] leather
-length of [material] chain
+length of [hardMaterial] chain
 broken [weapon/claw/tooth]
 glass vial of [color] acid
  empty bottle of [beverage]
-small [material] bound book
-pair of [material] calipers
-[material] container of oil
-[material] container of wax
+small [hardMaterial] bound book
+pair of [hardMaterial] calipers
+[hardMaterial] container of oil
+[hardMaterial] container of wax
 ceramic pot sealed with wax
-long, thin [material] needle
-[material] mortar and pestle
+long, thin [hardMaterial] needle
+[hardMaterial] mortar and pestle
 large glowing [preciousStone]
-handful of [material] spheres
-set of [material] gaming dice
-single [material] chess piece
-[material] flask of [beverage]
+handful of [hardMaterial] spheres
+set of [hardMaterial] gaming dice
+single [hardMaterial] chess piece
+[hardMaterial] flask of [beverage]
 leather pouch of dried [plant]
-[material] statuette of [race]
-[material] container of [spice]
+[hardMaterial] statuette of [race]
+[hardMaterial] container of [spice]
 ceramic tile depicting a [race]
 crystalline vial of [color] ink
-pair of grimy [material] goggles
-[material] pair of [tool.plural]
+pair of grimy [hardMaterial] goggles
+[hardMaterial] pair of [tool.plural]
 belt made from the skin of [race]
-[material] mining pick and shovel
+[hardMaterial] mining pick and shovel
 desecrated holy symbol of [deity]
  old, yellowed, and illegible note
 document with the seal of [person]
 neatly folded set of clean clothes
 paper fragment of an unknown spell
-large [material] container of ashes
-single arrow tipped with [material]
+large [hardMaterial] container of ashes
+single arrow tipped with [hardMaterial]
 small [fabric] pouch of pipe weed
 parchment with a list of names on it
-pair of [material]-rimmed spectacles
-large shard of [color] [material]
-adventurer's [material] bound journal
+pair of [hardMaterial]-rimmed spectacles
+large shard of [color] [hardMaterial]
+adventurer's [hardMaterial] bound journal
 [itemCondition], [hardMaterial] [container] filled with [liquidMaterial]
 large glass jar filled with holy water
 [fabric] [container] of [itemCondition], [hardMaterial] shards
 leather pouch of jagged ceramic shards
-distorted [material] painting of [race]
+distorted [hardMaterial] painting of [race]
 single [color] [race, feathered] feather
-crooked [material] knife covered in blood
+crooked [hardMaterial] knife covered in blood
 roughly drawn map of the surrounding area
 [fabric] [container] of [itemCondition] [hardMaterial] [tool.plural]
-leather pouch of tiny [material] caltrops
+leather pouch of tiny [hardMaterial] caltrops
 piece of bread and cheese wrapped in cloth
-[material] container that holds human teeth
+[hardMaterial] container that holds human teeth
 leather bundle with a [material, metal] file
 strongbox filled with [preciousStone.plural]
 twelve sided [color] die with arcane symbols
 blank parchment containing a hidden secret message
-[material] coin with [deity]'s symbol engraved on it
-[material] ring studded with [preciousStone.plural]
-[material] container of [material, precious metal] bars
-small [material] tablet illustrating a fire being kindled
+[hardMaterial] coin with [deity]'s symbol engraved on it
+[hardMaterial] ring studded with [preciousStone.plural]
+[hardMaterial] container of [material, precious metal] bars
+small [hardMaterial] tablet illustrating a fire being kindled
 [hardMaterial] disc with a single rune scratched into the surface
 ceramic disc with a single rune scratched into the surface
 handful of rough, coarse [color] sand (and it gets everywhere)

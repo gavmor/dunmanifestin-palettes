@@ -17,12 +17,12 @@ a degree in [facetOfCulture]
 a bunch of superstitions about [topicOfConversation]
 a conspiracy theory about [topicOfConversation]
 a bunch of inside jokes about [topicOfConversation]
-a collection of [baseItem.plural] [uniqueItemDescription]
+a collection of [commonItem.plural] [uniqueItemDescription]
 a speech impediment
 a case of [animal] [disease]
 [race.article] [disease]
 a large entourage of [race.plural]
-[container.article] of [baseItem.plural]
+[container.article] of [commonItem.plural]
 a price set on zir head by [person]
 a vendetta against [person]
 2@[disability.article] [animal]
@@ -51,4 +51,4 @@ a mysterious goal
 a plan to to conquer
 a need for revenge
 a scheme to rule
-a curse
+cursed [curse]

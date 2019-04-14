@@ -53,3 +53,7 @@ The following command displays swatches by frequency.
 ```
 grep -roh -P "\[(.*?)[\.\]]" . | sort | uniq -c | sort -n
 ```
+pipe to this script for a histogram:
+```
+perl -lane 'printf "%-30s%s\n", $F[1], "=" x $F[0]'
+```

@@ -23,9 +23,9 @@ to go home
 to have a good time
 to kill [person]
 to kill everybody
-to loan [baseItem.article] to [person]
+to loan [commonItem.article] to [person]
 to please [deity]
-to return [baseItem.article] to [person]
+to return [commonItem.article] to [person]
 to seduce [person]
 to travel the world
 to travel to [placeName]

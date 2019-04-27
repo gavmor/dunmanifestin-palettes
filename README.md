@@ -27,7 +27,7 @@ From `[placeName], [settlementType.article] built on [geologicalFormation.articl
 
 Thank yous a million for dropping these things on the internet where I could scramble 'em:
 
-- [Ben Christel](https://github.com/benchristel)'s Nevven
+- [Ben Christel](https://github.com/benchristel)'s Nevven and [weltschmerz](https://github.com/benchristel/weltschmerz).
 - u/JR-9615's [Mundane Items](https://www.reddit.com/r/DnD/comments/3yvy58/commonmundane_item_list_d100/)
 - [Johnn Four](https://www.roleplayingtips.com/)'s [Encounters](https://s3.amazonaws.com/RPT-eBooks/1372-fantasy-roadside-encounters.pdf)
 

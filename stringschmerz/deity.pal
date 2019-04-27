@@ -1,9 +1,11 @@
 |deity
-[name], [title] of [domain]
-[name] the [domain]-[title]
+[deityName], [title] of [domain]
+[deityName] the [domain]-[title]
+
+|deityName*5
+[name]
 
 |title
-lord
 lady
 god
 goddess

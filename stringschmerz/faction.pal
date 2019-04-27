@@ -1,0 +1,25 @@
+|faction
+20@[race]
+20@[profession]
+10@[race] [profession]
+5@[placeName]-born
+2@[family]-born
+[relation#plural] of [family:recur]
+[membershipLevel#plural] of [orgName:recur]
+[deity.titleize]-touched
+[devotionLevel#plural] of [deityName:recur]
+
+|relation
+child
+
+|worshipper
+follower
+worshipper
+devotee
+
+|membershipLevel
+initiate
+veteran
+member
+acolyte
+journeyman

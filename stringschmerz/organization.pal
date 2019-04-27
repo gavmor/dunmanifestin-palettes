@@ -12,8 +12,10 @@ cult
 horde
 order
 
+|orgName*2
+The [orgNameRaw.titleize]
 
-|orgName
+|orgNameRaw
 [material] [faction]
 [faction.plural] of [placeName]
 [condition] [profession.plural]
@@ -28,7 +30,6 @@ un[condition]
 [orgType] of the [bodyPart]less
 [orgType] of the [condition] [bodyPart]
 [color] [animal.plural]
-[orgType] of the [orgName]
 [color] [structureType]
 
 |null
@@ -168,8 +169,8 @@ capture
 loot
 
 |organization
-The [orgName.titleize], [orgType.article] of [personCondition] [faction.plural] [orgMission]
-The [orgName.titleize], [orgType.article] of [faction.plural], [faction.plural], and [faction.plural] [orgMission]
+The [orgName], [orgType.article] of [personCondition] [faction.plural] [orgMission]
+The [orgName], [orgType.article] of [faction.plural], [faction.plural], and [faction.plural] [orgMission]
 
 |orgBio
 [organization]. [orgDetail]. [orgDetail].

@@ -15,7 +15,7 @@ the dark
 2@the plague
 pointy things
 [color] things
-The [orgName.titleize]
+[orgName:recur]
 4@[race.plural]
 2@dismemberment
 4@being impaled

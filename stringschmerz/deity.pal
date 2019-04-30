@@ -1,6 +1,6 @@
 |deity
-[deityName], [title] of [domain]
-[deityName] the [domain]-[title]
+[deityName], [title.titleize] of [domain.titleize]
+[deityName] the [domain.titleize]-[title.titleize]
 
 |deityName*5
 [name]

@@ -1,7 +1,10 @@
 |repute
+[reputeBase]
+[reputeBase] among [faction.plural]
+
+|repute
 famed
 notorious
 lauded
 feared
 known
-[repute] among [faction.plural]

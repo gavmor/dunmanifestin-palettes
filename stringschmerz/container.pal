@@ -4,6 +4,6 @@
 cart
 barrel
 [fabric] bag
-[hardMaterial] box
+[solidMaterial] box
 bowl
 pouch

@@ -1,7 +1,7 @@
 |weapon
 5@[sword]
 2@[bow]
-[bow] and [arrow]
+[bow#plural] and [arrow#plural]
 2@[knife]
 axe
 club
@@ -21,15 +21,15 @@ flail
 
 |sword
 [metal] [swordType]
-[metal] [swordType] with [_hilt.article] made of [hardMaterial]
+[metal] [swordType] with [_hilt.article] made of [solidMaterial]
 [metal] [swordType] inlaid with [preciousMetal]
 [metal] [swordType] encrusted with [preciousStone]
 [swordType]
-[swordType] with [_hilt.article] made of [hardMaterial]
+[swordType] with [_hilt.article] made of [solidMaterial]
 [swordType] inlaid with [preciousMetal]
 [swordType] encrusted with [preciousStone]
 [itemCondition] [swordType]
-[itemCondition] [swordType] with [_hilt.article] made of [hardMaterial]
+[itemCondition] [swordType] with [_hilt.article] made of [solidMaterial]
 [itemCondition] [swordType] inlaid with [preciousMetal]
 [itemCondition] [swordType] encrusted with [preciousStone]
 [metal] [swordType], [weaponName], [weaponEpithet]
@@ -54,11 +54,11 @@ compound bow
 repeating crossbow
 
 |arrow
-2@[hardMaterial]-tipped [arrowType]
-2@[hardMaterial] [arrowType]
+2@[solidMaterial]-tipped [arrowType]
+2@[solidMaterial] [arrowType]
 poison [arrowType]
 barbed [arrowType]
-2@[arrowType] with [arrowShaftType.article] of [hardMaterial]
+2@[arrowType] with [arrowShaftType.article] of [solidMaterial]
 [color]-flighted [arrowType]
 [color]-fletched [arrowType]
 [color]-feathered [arrowType]
@@ -72,15 +72,15 @@ bolt
 shaft
 
 |knife
-[knifeType] with [_handle.article] of [hardMaterial]
+[knifeType] with [_handle.article] of [solidMaterial]
 [knifeType] inlaid with [preciousMetal]
 [knifeType] with [preciousStone.article] on the [_handle]
 [knifeType] encrusted with [preciousStone]
-[metal] [knifeType] with [_handle.article] of [hardMaterial]
+[metal] [knifeType] with [_handle.article] of [solidMaterial]
 [metal] [knifeType] inlaid with [preciousMetal]
 [metal] [knifeType] with [preciousStone.article] on the [_handle]
 [metal] [knifeType] encrusted with [preciousStone]
-[itemCondition] [knifeType] with [_handle.article] of [hardMaterial]
+[itemCondition] [knifeType] with [_handle.article] of [solidMaterial]
 [itemCondition] [knifeType] inlaid with [preciousMetal]
 [itemCondition] [knifeType] with [preciousStone.article] on the [_handle]
 [itemCondition] [knifeType] encrusted with [preciousStone]

@@ -3,13 +3,13 @@
 [commonItem.article]
 
 |commonItem
-[itemCondition] [garment] of [color] [fabric]
-[itemCondition] [color]-[hardMaterial] [instrument]
-[itemCondition] [color]-[hardMaterial] [tool]
-[itemCondition] [color]-[hardMaterial] [weapon]
-[itemCondition] [jewelry] of [hardMaterial]
+[itemCondition] [garment#plural] of [color] [fabric]
+[itemCondition] [color] [solidMaterial] [solidItem#plural]
+[solidMaterial] [solidItem#plural]
+[itemCondition] [solidItem#plural] of [solidMaterial]
+[itemCondition] [color] [solidItem#plural]
 
-|baseItem
+|solidItem
 [garment]
 [instrument]
 [tool]

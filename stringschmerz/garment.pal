@@ -26,7 +26,10 @@ headdress
 haubergeon
 sword-belt
 single [pairedGarment]
-pair of [pairedGarment.plural]
+[_pair#plural] of [pairedGarment.plural]
+
+|_pair
+pair
 
 |pairedGarment
 glove

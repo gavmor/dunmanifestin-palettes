@@ -1,7 +1,7 @@
 |faction
-20@[race]
-20@[profession]
-10@[race] [profession]
+20@[race#plural]
+20@[profession#plural]
+10@[race] [profession#plural]
 5@[placeName]-born
 2@[family]-born
 [relation#plural] of [family:recur]

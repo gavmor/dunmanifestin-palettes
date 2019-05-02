@@ -1,36 +1,36 @@
 // Thanks to http://dndspeak.com/2018/02/100-factions/
-|orgType
-club
-band
-watch
-army
-tribe
-conclave
-society
-legion
-cult
-horde
-order
-
 |orgName*2
-The [orgNameRaw.titleize]
+[orgNameRaw.titleize]
 
 |orgNameRaw
-[material] [faction]
-[faction.plural] of [placeName]
-[condition] [profession.plural]
-[condition] [profession.possessive] [orgType]
-[condition] [bodyPart.plural]
-[condition]
-un[condition]
-[color] [profession.plural]
-[profession.plural]
-[attitude] [orgType]
-[orgType] for the [abstraction] of [abstraction]
-[orgType] of the [bodyPart]less
-[orgType] of the [condition] [bodyPart]
-[color] [animal.plural]
-[color] [structureType]
+The [material] [faction]
+The [faction.plural] of [placeName]
+The [condition] [profession.plural]
+The [condition] [profession.possessive] [group]
+The [condition] [bodyPart.plural]
+The [condition]
+The un[condition]
+The [color] [profession.plural]
+The [profession.plural]
+The [attitude] [group]
+The [group] for the [abstraction] of [abstraction]
+The [group] of the [bodyPart]less
+The [group] of the [condition] [bodyPart]
+The [color] [animal.plural]
+The [color] [structureType]
+Walmart
+China National Petroleum
+China Post Group
+State Grid
+Foxconn
+Sinopec Group
+Tata Group
+Volkswagen
+United States Postal Service
+Compass Group
+Agricultural Bank of China
+Google
+
 
 |null
 The Old Lord’s Watch
@@ -169,8 +169,8 @@ capture
 loot
 
 |organization
-The [orgName], [orgType.article] of [personCondition] [faction.plural] [orgMission]
-The [orgName], [orgType.article] of [faction.plural], [faction.plural], and [faction.plural] [orgMission]
+[orgName], [group.article] of [personCondition] [faction.plural] [orgMission]
+[orgName], [group.article] of [faction.plural], [faction.plural], and [faction.plural] [orgMission]
 
 |orgBio
 [organization]. [orgDetail]. [orgDetail].

@@ -1,0 +1,35 @@
+|uniqueItem
+zir grandmother's diary
+the lost manuscript of [personName]'s last book, "[bookTitle.titleize]"
+
+|bookTitle
+[subBookTitle.article]
+[subBookTitle.plural]
+[subBookTitle]
+
+|subBookTitle
+The [bookTitleBody]
+[bookTitleBody] in [color]
+[bookTitleBody] of [abstraction]
+[bookTitleBody] of [bookTitleBody]
+[bookTitleBody] of [season]
+[bookTitleBody] the [condition]
+[orgName]: [bookTitleBody]
+
+|bookTitleBody
+[abstraction#plural#article]
+[weapon#plural#article]
+[instrument#plural#article]
+[tool#plural#article]
+[animal#article] [verb#plural]
+[condition] [profession#plural#article]
+[color#article] [instrument#plural]
+[hardMaterial#article] [instrument#plural]
+[hardMaterial#article] [instrument#plural]
+[color#article] [tool#plural]
+[hardMaterial] [tool]
+[color] [weapon]
+[hardMaterial#article] [weapon]
+[itemCondition#article] [tool#plural]
+[itemCondition#article] [weapon#plural]
+[jewelry#plural#article] of [hardMaterial]

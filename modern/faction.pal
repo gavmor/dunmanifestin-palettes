@@ -1,100 +1,86 @@
 |faction
-[firm:recur] [profession:recur]
-[industry:recur] industry [profession:recur]
-
-|firm*1
-Walmart
-China National Petroleum
-China Post Group
-State Grid
-Foxconn
-Sinopec Group
-Tata Group
-Volkswagen
-United States Postal Service
-Compass Group
-Agricultural Bank of China
-Google
+[profession:recur] working with [orgName:recur]
+[profession:recur] working in the [industry:recur] industry
 
 |industry*1
-Advertising
-Aerospace & Defense
-Air Courier
-Airline
-Aluminum
-Apparel/Accessories
-Apparel/Footwear Retail
-Auto & Truck Manufacturers
-Auto & Truck Parts
-Beverages
-Biotechs
-Broadcasting & Cable
-Business & Personal Services
-Business Products & Supplies
-Casinos & Gaming
-Communications Equipment
-Computer & Electronics Retail
-Computer Hardware
-Computer Services
-Computer Storage Devices
-Conglomerates
-Construction Materials
-Construction Services
-Consumer Electronics
-Consumer Financial Services
-Containers & Packaging
-Department Stores
-Discount Stores
-Diversified Chemicals
-Diversified Insurance
-Diversified Metals & Mining
-Diversified Utilities
-Drug Retail
-Electric Utilities
-Electrical Equipment
-Electronics
-Environmental & Waste
-Food Processing
-Food Retail
-Forest Products
-Furniture & Fixtures
-Healthcare Services
-Heavy Equipment
-Home Improvement Retail
-Hotels/Motels
-Household Appliances
-Household/Personal Care
-Insurance Brokers
-Internet & Catalog Retail
-Investment Services
-Iron & Steel
-Life & Health Insurance
-Major Banks
-Managed Health Care
-Medical Equipment & Supplies
-Natural Gas Utilities
-Oil & Gas Operations
-Oil Services & Equipment
-Other Industrial Equipment
-Other Transportation
-Paper & Paper Products
-Pharmaceuticals
-Precision Healthcare Equipment
-Printing & Publishing
-Property & Casualty Insurance
-Railroads
-Real Estate
-Recreational Products
-Regional Banks
-Rental & Leasing
-Restaurants
-Security Systems
-Semiconductors
-Software & Programming
-Specialized Chemicals
-Specialty Stores
-Telecommunications services
-Thrifts & Mortgage Financing
-Tobacco
-Trading Companies
-Trucking
+advertising
+aerospace & defense
+air courier
+airline
+aluminum
+apparel & accessories
+apparel & footwear retail
+auto & truck manufacturers
+auto & truck parts
+beverages
+biotechs
+broadcasting & cable
+business & personal services
+business products & supplies
+casinos & gaming
+communications equipment
+computer & electronics retail
+computer hardware
+computer services
+computer storage devices
+conglomerates
+construction materials
+construction services
+consumer electronics
+consumer financial services
+containers & packaging
+department stores
+discount stores
+diversified chemicals
+diversified insurance
+diversified metals & mining
+diversified utilities
+drug retail
+electric utilities
+electrical equipment
+electronics
+environmental & waste
+food processing
+food retail
+forest products
+furniture & fixtures
+healthcare services
+heavy equipment
+home improvement retail
+hotels & motels
+household appliances
+household & personal care
+insurance brokers
+internet & catalog retail
+investment services
+iron & steel
+life & health insurance
+major banks
+managed health care
+medical equipment & supplies
+natural gas utilities
+oil & gas operations
+oil services & equipment
+other industrial equipment
+other transportation
+paper & paper products
+pharmaceuticals
+precision healthcare equipment
+printing & publishing
+property & casualty insurance
+railroads
+real estate
+recreational products
+regional banks
+rental & leasing
+restaurants
+security systems
+semiconductors
+software & programming
+specialized chemicals
+specialty stores
+telecommunications services
+thrifts & mortgage financing
+tobacco
+trading companies
+trucking

@@ -2,12 +2,16 @@
 [uniqueItem]
 [commonItem.article]
 
-|uniqueItem
-[itemName], [commonItem.article] [uniqueItemDescription]
-
 |commonItem
 [itemCondition] [garment] of [color] [fabric]
-[itemCondition], [color], [hardMaterial] [instrument]
-[itemCondition], [color], [hardMaterial] [tool]
-[itemCondition], [color], [hardMaterial] [weapon]
+[itemCondition] [color]-[hardMaterial] [instrument]
+[itemCondition] [color]-[hardMaterial] [tool]
+[itemCondition] [color]-[hardMaterial] [weapon]
 [itemCondition] [jewelry] of [hardMaterial]
+
+|baseItem
+[garment]
+[instrument]
+[tool]
+[weapon]
+[jewelry]

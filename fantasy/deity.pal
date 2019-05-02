@@ -1,11 +1,11 @@
 |deity
-[deityName], [title.titleize] of [domain.titleize]
-[deityName] the [domain.titleize]-[title.titleize]
+[deityName], [deityTitle.titleize] of [domain.titleize]
+[deityName] the [domain.titleize]-[deityTitle.titleize]
 
 |deityName*5
 [name]
 
-|title
+|deityTitle
 lady
 god
 goddess

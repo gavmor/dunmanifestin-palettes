@@ -1,0 +1,26 @@
+|personTitle
+[personTitleRaw.titleize]
+
+|personTitleRaw
+[superlative] of his Name
+[role] of [animal.plural]
+High [profession]
+High [role]
+Under[profession]
+Under[role]
+Assistant [profession]
+Assistant [role]
+Zir [personCondition] [personCondition]ness
+[superlative] [profession]
+[superlative] [role]
+
+|role
+protector
+destroyer
+mother
+father
+maker
+giver
+inquisitor
+keeper
+striker

@@ -10,4 +10,8 @@
 [placeName], [structureType.article] on [geologicalFormation.article] in [placeName] [structureDetail]
 
 |region
-[placeName], [regionType.article] of [geologicalFormation.plural] [regionDetail]
+[regionName], [regionType.article] of [geologicalFormation.plural] [regionDetail]
+
+|placeMoniker
+land of [regionName]
+[settlementType] of [placeName]

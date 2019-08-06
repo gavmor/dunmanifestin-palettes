@@ -27,5 +27,6 @@ to loan [commonItem.article] to [person]
 to please [deity]
 to return [commonItem.article] to [person]
 to seduce [person]
+to steal [uniqueItem]
 to travel the world
 to travel to [placeName]

@@ -1,7 +1,7 @@
 |weapon
 5@[sword]
 2@[bow]
-[bow#plural] and [arrow#plural]
+[bow#plural] with [arrow.plural]
 2@[knife]
 axe
 club

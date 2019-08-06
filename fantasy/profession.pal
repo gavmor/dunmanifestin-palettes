@@ -1,5 +1,12 @@
+|_master
+master
+
+|_leader
+leader
+
 |profession
-2@[metal] miner
+[_leader#plural] of [profession.article] caravan
+[_master#plural] of ceremony
 [metal]smith
 10@alchemist
 10@armorer
@@ -8,6 +15,7 @@
 10@knight
 10@pirate
 10@warlock
+2@[metal] miner
 2@bathhouse worker
 2@hunter
 2@oracle
@@ -89,7 +97,6 @@ jailer
 jeweler
 lamp lighter
 lawyer
-leader of [profession.article] caravan
 lector
 librarian
 lookout
@@ -101,7 +108,6 @@ madhouse caretaker
 magic merchant
 magistrate
 maid
-master of ceremony
 mayor
 menagerie keeper
 merchant
@@ -140,21 +146,21 @@ sherriff
 shipwright
 slave
 slaver
-smoke shop tobacconist
 soap maker
 spinster
 stable master
 stablehand
+steward
 stone mason
 street cleaner
 street sweeper
 tailor
 tanner
 tax collector
-teleportation circle steward
 thatcher
 theif
 thief
+tobacconist
 town crier
 trapper
 traveling merchant

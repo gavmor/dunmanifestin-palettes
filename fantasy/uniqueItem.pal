@@ -1,5 +1,7 @@
 |uniqueItem
-[itemName], the [commonItem] [uniqueItemDescription]
+5@[itemName], the [commonItem] [uniqueItemDescription]
+3@[itemName], the [majorMagicItem]
+[itemName], the [minorMagicItem]
 
 |itemName
 [name]
@@ -9,5 +11,10 @@
 made in [placeName] by [personName]
 gifted to [personName] by [personName]
 stolen by [personName], who used it [verbDesire]
-30@which [magicItemEffect] when [activated]
-5@which [magicItemEffect]
+
+|majorMagicItem
+[commonItem] which [minorMagicItemEffect] and [majorMagicItemEffect] when [activated]
+
+|minorMagicItem
+[commonItem] which [minorMagicItemEffect] when [activated]
+[trinket]

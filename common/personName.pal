@@ -1,4 +1,7 @@
 |personName
 10@[name] [family]
 [name] of [placeName]
-[name] the [personCondition.titleize]
+[name] [epithet]
+
+|epithet
+the [personCondition.titleize]

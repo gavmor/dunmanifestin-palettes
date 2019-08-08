@@ -18,21 +18,22 @@ shield
 javelin
 claw
 flail
+javelin
 
 |sword
-[metal] [swordType]
-[metal] [swordType] with [_hilt.article] made of [solidMaterial]
-[metal] [swordType] inlaid with [preciousMetal]
-[metal] [swordType] encrusted with [preciousStone]
-[swordType]
-[swordType] with [_hilt.article] made of [solidMaterial]
-[swordType] inlaid with [preciousMetal]
-[swordType] encrusted with [preciousStone]
-[itemCondition] [swordType]
-[itemCondition] [swordType] with [_hilt.article] made of [solidMaterial]
-[itemCondition] [swordType] inlaid with [preciousMetal]
-[itemCondition] [swordType] encrusted with [preciousStone]
-[metal] [swordType], [weaponName], [weaponEpithet]
+[metal] [swordType#plural]
+[metal] [swordType#plural] with [_hilt.article] made of [solidMaterial]
+[metal] [swordType#plural] inlaid with [preciousMetal]
+[metal] [swordType#plural] encrusted with [preciousStone]
+[swordType#plural]
+[swordType#plural] with [_hilt.article] made of [solidMaterial]
+[swordType#plural] inlaid with [preciousMetal]
+[swordType#plural] encrusted with [preciousStone]
+[itemCondition] [swordType#plural]
+[itemCondition] [swordType#plural] with [_hilt.article] made of [solidMaterial]
+[itemCondition] [swordType#plural] inlaid with [preciousMetal]
+[itemCondition] [swordType#plural] encrusted with [preciousStone]
+[metal] [swordType#plural], [itemName#plural] [epithet]
 
 |swordType
 20@sword
@@ -58,11 +59,11 @@ repeating crossbow
 2@[solidMaterial] [arrowType]
 poison [arrowType]
 barbed [arrowType]
-2@[arrowType] with [arrowShaftType.article] of [solidMaterial]
+2@[arrowType#plural] with [arrowShaftType.article] of [solidMaterial]
 [color]-flighted [arrowType]
 [color]-fletched [arrowType]
 [color]-feathered [arrowType]
-[arrowType] fletched with [bird] feathers
+[arrowType#plural] fletched with [bird] feathers
 
 |arrowType
 arrow
@@ -72,19 +73,19 @@ bolt
 shaft
 
 |knife
-[knifeType] with [_handle.article] of [solidMaterial]
-[knifeType] inlaid with [preciousMetal]
-[knifeType] with [preciousStone.article] on the [_handle]
-[knifeType] encrusted with [preciousStone]
-[metal] [knifeType] with [_handle.article] of [solidMaterial]
-[metal] [knifeType] inlaid with [preciousMetal]
-[metal] [knifeType] with [preciousStone.article] on the [_handle]
-[metal] [knifeType] encrusted with [preciousStone]
-[itemCondition] [knifeType] with [_handle.article] of [solidMaterial]
-[itemCondition] [knifeType] inlaid with [preciousMetal]
-[itemCondition] [knifeType] with [preciousStone.article] on the [_handle]
-[itemCondition] [knifeType] encrusted with [preciousStone]
-[metal] [knifeType] named [weaponName]
+[knifeType#plural] with [_handle.article] of [solidMaterial]
+[knifeType#plural] inlaid with [preciousMetal]
+[knifeType#plural] with [preciousStone.article] on the [_handle]
+[knifeType#plural] encrusted with [preciousStone]
+[metal] [knifeType#plural] with [_handle.article] of [solidMaterial]
+[metal] [knifeType#plural] inlaid with [preciousMetal]
+[metal] [knifeType#plural] with [preciousStone.article] on the [_handle]
+[metal] [knifeType#plural] encrusted with [preciousStone]
+[itemCondition] [knifeType#plural] with [_handle.article] of [solidMaterial]
+[itemCondition] [knifeType#plural] inlaid with [preciousMetal]
+[itemCondition] [knifeType#plural] with [preciousStone.article] on the [_handle]
+[itemCondition] [knifeType#plural] encrusted with [preciousStone]
+[metal] [knifeType#plural] named [weaponName]
 
 |knifeType
 5@knife

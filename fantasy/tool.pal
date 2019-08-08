@@ -1,26 +1,28 @@
 |tool
-map
-map of [placeName]
+ax
+abacus
+10@[kit]
 orb
 axe
+map
 wand
 bowl
 trawl
 spoon
 knife
-windchime
-[container]
 shovel
-100@ax
-hammer
 plough
+hammer
+scroll
+candle
 peg leg
 crowbar
-parchment
-scroll
-power saw
-whetstone
 manacle
+parchment
+windchime
+whetstone
+[container]
+map of [placeName]
 hourglass filled with [color] sand
 [_hook#plural] for [_hand.article#plural]
 
@@ -29,3 +31,19 @@ hook
 
 |_hand
 hand
+
+|kit
+[professon]'s toolkit
+taxidermist's kit
+engineering kit
+poison kit
+prospector's kit
+warforged repair kit
+whaler's kit
+archaeology kit
+bookkeeper's kit
+falconry kit
+[animal] husbandry kit
+ornithology kit
+sewing kit
+weapon cleaning kit

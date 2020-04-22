@@ -1,0 +1,89 @@
+|root
+[plotHook]
+
+|null
+As you approach the [structure], the [clue] resolves into [specificity]. [options]
+Approaching the [structure], you spy [specificity]. [options]
+
+
+|structure
+circle of standing stones
+center of the labyrinth
+waterfall
+shoreline
+cliff
+bridge
+
+|clue
+swirl of dancing lights
+swarm of scurrying rats
+treasure
+unseasonal fog
+trail of footprints
+noxious odor
+
+|specificity
+horrific forms; writhing wraiths, glowing with the light of undeath, hover over the cracked stone altar. Before them [attitude] [npc], [action]
+a beautiful, unattended watercraft; at its bow, [npc] [attitude], [action]
+an exploding display of firecrackers
+
+|options
+Do you [option] or do you [option]?
+Do you [option], do you [option], or do you [option]?
+
+|option
+dismantle the device and sell it for parts
+beg parley with the dead
+reveal yourself
+flee
+attack
+negotiate
+set fire to the structure
+settle down and raise a family
+join in the fun
+
+|attitude
+sits
+stands
+paces
+
+
+|action
+beckoning to the encircling spirits
+rolling over in zir sleep
+resting
+crawling out from underneath
+stirring a delicious-smelling stew
+striking a hammer against hot iron
+tending a rice field
+dueling [npc]
+charging at you with a lance
+furiously scribbling incomprehensible figures across a slate
+sitting in meditation, hovering five feet above the ground
+chanting in an unrecognizable tongue
+
+
+|npc
+a single, dark figure; the necromancer, arms outstretched
+a fat, purple dragon; the scaly beast, snoring loudly
+a hauntingly realistic carving of a pterodactyl
+100@[person]
+
+|comment
+As you approach the circle of standing stones, the dancing lights resolve into horrific forms; writhing wraiths, glowing with the light of undeath, hover over the cracked stone altar. Before them stands a single, dark figure; the necromancer, arms outstretched, beckons to the encircling spirits. Do you attack the necromancer, before he notices your approach, or do you reveal yourself, and beg parley with the dead?
+Approaching the shoreline, you spy a beautiful, unattended watercraft. At its bow, a hauntingly realistic carving of a pterodactyl. Do you board the ship, or set a torch to it?
+As you cross the bridge, a horrifying, stinking, green-skinned troll swings up over the railing from below, demanding payment. Do you pay, or do you attack?
+From the behind the waterfall, the glint of gold catches your eye. Creeping along the spray-slick cliff-face, you peer behind the watery curtain and behold a gem-studded coffin. Do you climb inside, or throw it in your wagon alongside the other treasures?
+
+|situation
+You see [threat.article]
+You see [opportunity.article]
+
+|threat
+monster
+dragon
+swinging, bladed pendulum
+
+|opportunity
+pile of gold
+beautifully constructed watercraft
